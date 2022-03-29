@@ -1,0 +1,55 @@
+/* .entry-cover{
+    display: flex;
+    float: left;
+    align-items: center;
+    justify-content: left;
+    margin-block-end:unset;
+    margin-block-start:unset;
+    margin-inline-end: unset;
+    margin-inline-start: unset;
+}
+.entry-cover img{
+    flex-shrink: 0;
+    max-width: 10em;
+    min-height: 100%;
+}
+.content-inblock{
+    display: inline-block;
+} */
+.image-content{
+    vertical-align: middle;
+    display: inline-block;
+    width: 20%;
+    height: 100%;
+    padding: 0.4em;
+}
+.text-content{
+    vertical-align: middle;
+    display: inline-block;
+    padding-left: 0.75em;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    width: 77%;
+}
+.big-container{
+    padding: 0em;
+    height: 100%;
+}
+.entry-cover img{
+    flex-shrink: 0;
+    max-width: 10em;
+    min-height: 100%;
+}
+.entry-cover{
+    margin: 0;
+    display: flex;
+    float: left;
+}
+.entry-cover img{
+    border-radius: 0;
+}
+figure img {
+    object-fit: contain;//contain the image you can use cover to fill the div with image
+    width: 200px;//desire width
+    height: 200px;//desire height
+}

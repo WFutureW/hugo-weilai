@@ -1,0 +1,35 @@
+{{- $blank := resources.Get "js/blank.js" }}
+{{- $js := resources.Get "js/plyr.polyfilled.js" }}
+{{- $plyr := (slice $blank $js) | resources.Concat "assets/js/plyr.js" | minify | fingerprint}}
+{{- $plyricon := resources.Get "icon/plyr.svg"}}
+
+<head>
+    <script type="application/javascript" src="{{ $plyr.Permalink }}"></script>
+</head>
+<div class="container">
+    <video controls crossorigin playsinline data-plyr-config='{"iconUrl":"{{ $plyricon.Permalink}}"}'
+        poster={{ .Page.Permalink }}{{ .Get 1 }}>
+        <source src={{ .Page.Permalink }}{{ .Get 0 }} type="video/mp4" size="1080">
+    </video>
+
+    <style>
+        .container {
+            margin: 1vw auto;
+            max-width: 100%;
+            padding-top: 0.5em;
+            padding-bottom: 0.5em;
+        }
+
+        .plyr {
+            border-radius: var(--radius);
+        }
+    </style>
+</div>
+<script>
+    // Change the second argument to your options:
+    // https://github.com/sampotts/plyr/#options
+    var players = Plyr.setup('video');
+
+    // Expose player so it can be used from the console
+    window.player = players;
+</script>

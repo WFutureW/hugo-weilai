@@ -1,0 +1,180 @@
+baseURL: https://sarkxing.design/
+languageCode: en-us
+title: Sark Xing
+paginate: 6
+theme: 
+  - "PaperMod"
+  # - "matomo"
+
+googleAnalytics: G-49SZ96LD9H
+
+# matomo:
+#     url: https://analytics.sarkxing.design
+#     id: 1
+#     disableSRI: false # by default, the scripts and styles are fingerprinted
+
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+disablePathToLower: true # making Hugo generate case sensitive urls
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+imaging:
+  resampleFilter: box
+  quality: 75
+  hint: photo
+  anchor: smart
+  exif:
+    includeFields: ''
+    excludeFields: ''
+    disableDate: false
+    disableLatLong: true
+
+params:
+    mainSections: 
+    - projects
+    newsSections:
+    - news
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Portfolio by Sark
+    description: "A collection of Sark's work"
+    keywords: [Portfolio, Sark, Tangible interaction, Multimodal interaction, User experience, Internet of Things, Materiality of Interaction, Haptic, Research through design]
+    author: Me
+    images: ["<link or path of image for opengraph, twitter-cards>"]
+    BeiAn: "粤 ICP 备 2021063171 号"
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+    ShowReadingTime: false
+    ShowShareButtons: false
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: true
+    showtoc: false
+    tocopen: false
+  
+    # profile-mode
+    profileMode:
+        enabled: false # needs to be explicitly set
+        title: ExampleSite
+        subtitle: "This is subtitle"
+        imageUrl: "<img location>"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: my image
+        buttons:
+            - name: Posts
+              url: posts
+            - name: Tags
+              url: tags
+
+    # home-info mode
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: "My name is [Sark Xing](resume/#naming). I am a [PhD student at PolyU Design](https://www.sd.polyu.edu.hk/en/meet-our-students/sark-pangrui-xing) 
+        for designing the materiality of connected things in everyday settings.
+        I tend to adopt a hands-on and user-centered approach in the study,
+        focusing on a view of contexts, and evaluating concepts in-situ 
+        to inform design- iterations and knowledge. 
+        I appreciate interactions that respect both cyber and physical world,
+        delivering intriguing experiences to the user.
+        In this portfolio, you could find my latest research- 
+        and design work, a short biography with my [CV](resume/)."
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/sarkrui"
+        - name: youtube
+          url: "https://vimeo.com/sarkxing"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/sark-p-xing/"
+
+    cover:
+        enableWebP: true # To allow using WebP image src
+        responsiveImages: true # To reduce generation time and size of the site
+        linkFullImages: true # To enable hyperlinks to the full image size on post pages
+        hidden: false # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    assets:
+        favicon: "/favicon.ico"
+        favicon16x16: "/favicon-16x16.png"
+        favicon32x32: "/favicon-32x32.png"
+        apple_touch_icon: "/apple-touch-icon.png"
+        # safari_pinned_tab: "<link / abs url>"
+
+    # Fusejs
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+        
+module:
+  mounts:
+  - source: content
+    target: content
+  - source: static
+    target: static
+  - source: §
+    target: layouts
+  - source: data
+    target: data
+  - source: assets
+    target: assets
+  - source: i18n
+    target: i18n
+  - source: archetypes
+    target: archetypes
+
+menu:
+    main:
+        - identifier: Projects
+          name: projects
+          url: /
+          weight: 10
+        - identifier: News
+          name: news
+          url: /news/
+          weight: 20
+        # - identifier: Stories
+        #   name: stories
+        #   url: /stories/
+        #   weight: 20
+        - identifier: Resume
+          name: resume
+          url: /resume/
+          weight: 30
+        # - identifier: Search
+        #   name: search
+        #   url: /search/
+        #   weight: 40
+        - identifier: Tags
+          name: tags
+          url: /tags/
+          weight: 40
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+markup:
+  goldmark:
+    extensions:
+      footnote: true

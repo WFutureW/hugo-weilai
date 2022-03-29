@@ -1,0 +1,16 @@
+.post-entry > .entry-cover{
+    transition: opacity 0.5s ease-out;
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+}
+
+.post-entry:hover .entry-cover{
+    opacity: 1;
+    height: auto;
+    transition: opacity 1s ease-out;
+}
+
+
+
+/* https://stackoverflow.com/questions/3331353/transitions-on-the-css-display-property */

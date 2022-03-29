@@ -1,0 +1,55 @@
+<a id="link-button" class="dl-btn" href="{{ .Get 0 }}">{{ .Get 1 }}</a>
+
+<style>
+    /* Style buttons */
+    a {
+        text-decoration: none;
+    }
+
+    .dl-btn {
+        display: inline-block;
+        padding: 0.5em 1.4em;
+        font-size: 1em;
+        border-radius: 30px;
+        border: 2px solid;
+        margin: 0.3em;
+        box-shadow: 0 0;
+        border-color: var(--primary);
+        color: var(--primary);
+        background-color: transparent;
+    }
+
+    /* alter background color on mouse-over */
+    .dl-btn:hover {
+        transition: 0.3s;
+        border-color: var(--primary);
+        color: var(--theme);
+        background-color: var(--primary);
+    }
+
+
+    @media (prefers-color-scheme: dark) {
+        .dark .dl-btn {
+            border-color: var(--primary);
+            color: var(--primary);
+            background-color: transparent;
+        }
+
+        .dark .dl-btn:hover {
+            border-color: var(--primary);
+            color: var(--theme);
+            background-color: var(--primary);
+        }
+    }
+
+    @media screen and (max-width: 768px) {
+        .dl-btn{
+            padding: 0.4em 0.8em;
+            font-size: 0.9em;
+        }
+
+    }
+    a#link-button {
+        box-shadow: 0 0;
+    }
+</style>

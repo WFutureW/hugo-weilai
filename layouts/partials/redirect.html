@@ -1,0 +1,3 @@
+{{- if eq .Params.rewrite true -}}
+    <meta http-equiv="refresh" content="0; URL='{{ .Params.redirectUrl  }}'" />
+{{- end -}}

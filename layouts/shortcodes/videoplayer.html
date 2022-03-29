@@ -1,0 +1,88 @@
+<div class="video-wrapper">
+    <video class="video-shortcode center" preload="{{ .Get "preload" }}" poster={{ .Page.Permalink }}{{ "video/" }}{{ .Get 1 }} controls disablepictureinpicture controlsList="nodownload">
+        <source src={{ .Page.Permalink }}{{ "video/" }}{{ .Get 0 }} type="{{ .Get "type" }}">
+    </video>
+</div>
+<script>
+var videoPlayButton,
+	videoWrapper = document.getElementsByClassName('video-wrapper')[0],
+    video = document.getElementsByTagName('video')[0],
+    videoMethods = {
+        renderVideoPlayButton: function() {
+            if (videoWrapper.contains(video)) {
+				this.formatVideoPlayButton()
+                video.classList.add('has-media-controls-hidden')
+                videoPlayButton = document.getElementsByClassName('video-overlay-play-button')[0]
+                videoPlayButton.addEventListener('click', this.hideVideoPlayButton)
+            }
+        },
+
+        formatVideoPlayButton: function() {
+            videoWrapper.insertAdjacentHTML('beforeend', '\
+                <svg class="video-overlay-play-button" viewBox="0 0 200 200" alt="Play video">\
+                    <circle cx="100" cy="100" r="90" fill="none" stroke-width="15" stroke="#fff"/>\
+                    <polygon points="70, 55 70, 145 145, 100" fill="#fff"/>\
+                </svg>\
+            ')
+        },
+
+        hideVideoPlayButton: function() {
+            video.play()
+            videoPlayButton.classList.add('is-hidden')
+            video.classList.remove('has-media-controls-hidden')
+            video.setAttribute('controls', 'controls')
+        }
+	}
+
+videoMethods.renderVideoPlayButton()
+</script>
+
+<style>
+    .video-shortcode {
+        border-radius: 4px;
+        max-width: 100%;
+        height: auto;
+    }
+    .center {
+        display: block;
+        margin: 2vw auto;
+    }
+    .video-wrapper {
+        border-radius: 4px;
+        position: relative;
+    }
+
+    .video-wrapper > video {
+        border-radius: 4px;
+        width: 100%;
+        vertical-align: middle;
+    }
+
+    .video-wrapper > video.has-media-controls-hidden::-webkit-media-controls {
+        display: none;
+    }
+
+    .video-overlay-play-button {
+        box-sizing: border-box;
+        border-radius: 4px;
+        width: 100%;
+        height: 100%;
+        padding: 10px calc(50% - 50px);
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: block;
+        opacity: 0.85;
+        cursor: pointer;
+        background-image: linear-gradient(transparent, #000);
+        transition: opacity 150ms;
+    }
+
+    .video-overlay-play-button:hover {
+        opacity: 0.4;
+    }
+
+    .video-overlay-play-button.is-hidden {
+        display: none;
+    }
+</style>
