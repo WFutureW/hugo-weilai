@@ -1,18 +1,9 @@
-baseURL: https://sarkxing.design/
+baseURL: https://weilai.media/
 languageCode: en-us
-title: Sark Xing
+title: Wei Lai
 paginate: 6
 theme: 
   - "PaperMod"
-  # - "matomo"
-
-googleAnalytics: G-49SZ96LD9H
-
-# matomo:
-#     url: https://analytics.sarkxing.design
-#     id: 1
-#     disableSRI: false # by default, the scripts and styles are fingerprinted
-
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -41,12 +32,11 @@ params:
     newsSections:
     - news
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Portfolio by Sark
-    description: "A collection of Sark's work"
-    keywords: [Portfolio, Sark, Tangible interaction, Multimodal interaction, User experience, Internet of Things, Materiality of Interaction, Haptic, Research through design]
+    title: Portfolio by Wei Lai
+    description: "A collection of Wei Lai's work"
+    keywords: [Portfolio, Wei Lai, ]
     author: Me
     images: ["<link or path of image for opengraph, twitter-cards>"]
-    BeiAn: "粤 ICP 备 2021063171 号"
     DateFormat: "January 2, 2006"
     defaultTheme: auto # dark, light
     disableThemeToggle: false
@@ -80,24 +70,22 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: "My name is [Sark Xing](resume/#naming). I am a [PhD student at PolyU Design](https://www.sd.polyu.edu.hk/en/meet-our-students/sark-pangrui-xing) 
-        for designing the materiality of connected things in everyday settings.
-        I tend to adopt a hands-on and user-centered approach in the study,
-        focusing on a view of contexts, and evaluating concepts in-situ 
-        to inform design- iterations and knowledge. 
-        I appreciate interactions that respect both cyber and physical world,
-        delivering intriguing experiences to the user.
-        In this portfolio, you could find my latest research- 
-        and design work, a short biography with my [CV](resume/)."
+        Title: "Hi \U0001F64F"
+        Content: "My name is [Wei Lai](resume/). I am a [PhD candidate at PolyU Design](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) 
+        for designing pedagogical agents with meaningful gestures in virtual learning environments.
+        The study used both qualitative and quantitative methods with eye tracking technique and statistical analysis tools.
+        My research interest is adopting social science methods with computing tools to investigate human mental and physical needs. 
+        In this portfolio, you could find my latest research, design and arts work, a short biography with my [CV](resume/doc/CV-Weilai2020.pdf)." 
 
     socialIcons:
-        - name: github
-          url: "https://github.com/sarkrui"
-        - name: youtube
-          url: "https://vimeo.com/sarkxing"
         - name: linkedin
-          url: "https://www.linkedin.com/in/sark-p-xing/"
+          url: "https://www.linkedin.com/in/lai-wei-076310ba/"
+        - name: orcid
+          url: "https://orcid.org/0000-0002-5476-5450"
+        - name: vimeo
+          url: "https://vimeo.com/user26095658"
+        - name: youtube
+          url: "https://www.youtube.com/channel/UCmuyjkQKVcEEOxySic6K0LA"
 
     cover:
         enableWebP: true # To allow using WebP image src
@@ -147,10 +135,6 @@ menu:
           name: projects
           url: /
           weight: 10
-        - identifier: News
-          name: news
-          url: /news/
-          weight: 20
         # - identifier: Stories
         #   name: stories
         #   url: /stories/

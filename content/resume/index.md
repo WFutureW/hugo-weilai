@@ -1,75 +1,115 @@
 ---
 title: "Resume"
-# aliases: ["/template"]
-# canonicalURL: "https://sarkxing.design/projects/template"
-date: "2021-12-12"
+aliases: ["/resume"]
+date: "2022-03-29"
 cover:
     image: "" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
 
 # Usually no need to modify
-author: "Sark"
+author: "Wei Lai \U0001F40E"
 ShowToc: false
 ShowBreadCrumbs: false
 draft: false
 ---
 
 ## Naming
-- **Sark**, originally a non-sense word, is simply ‘Shark’ without an ‘h’ and it has been used as my English name since my adolescence.
-- **P**. – the initial of Pangrui _(庞锐)_, my first name in Mandarin, is less introduced to my western friends as it is too confronting for them to pronounce.
-- **Xing**, my surname _(邢)_, is pronounced as similar as *‘Sing'*.
+- **Wei Lai**, ‘ 魏莱 ’, has the same Chinese pronunciation as 'future(未来)'.
 
 ## Education
-- **The Hong Kong Polytechnic University**, *Hong Kong SAR*
-    - [Ph.D. Student](https://www.sd.polyu.edu.hk/en/meet-our-students/sark-pangrui-xing) 2021 - Present, *Design*, specializing in exploring multimodal interactions with intelligent things; designing materiality of interaction.
+- **School of Design, The Hong Kong Polytechnic University**, *Hong Kong SAR, China*
+    - [Ph.D. Student](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) 2019 - Present, *Design*, specializing in exploring pedagogical agents with meaningful gestures, virtual learning Platform, research methods.
 
-- **Eindhoven University of Technology**, *the Netherlands* 
-    - M.Sc. 2018 – 2020, *Industrial Design*, specializing in Interaction Design.
+- **Central Saint Martins, University of the Arts, London**, *London, UK* 
+    - MA. 2013 – 2015, *Character Animation*, specializing in 2D Animation, Computer Art, and Illustration.
 
-- **Beijing Normal University Zhuhai**, *China* 
-    - B.Eng. 2014 – 2018, *Industrial Design*, specializing in Product Design.
-    - ['14 - '18 Porfolio](doc/BSc-14'-18'-portfolio.pdf)
+- **College of Animation and Digital Arts, Communication University of China**, *Beijing, China* 
+    - BA. 2008 – 2012, *Animation*, specializing in 2D Animation, Motion Images, Film Editing, Computer Art, Interaction Design, and Illustration.
+    - ['08 - '20 Arts Porfolio"](doc/WeiLai-Portfolio.pdf)
+
+## Experiences in Universities
+- 2019 – 2022, Teaching Assistant, **[Interaction Design (MDes)](https://www.sd.polyu.edu.hk/en/study-detail/interaction-design)**, School of Design, The Hong Kong Polytechnic University
+- 2019 – 2022, Teaching Assistant, **[Interactive Media (BA)](https://www.sd.polyu.edu.hk/en/study-detail/ba-hons-in-interactive-media)**, School of Design, The Hong Kong Polytechnic University
+- 2017 – Present, Instructor, **[Visual Communication Design (BA)](https://www.cque.edu.cn/msx/)**, Arts College, Chongqing University of Education
+- 2016, Instructor, **[Visual Communication Design (BA)](http://sjcm.cqysxy.com/)**, Chongqing Vocational College of Art and Engineering, Chongqing 
+
+## Experiences in Industry
+- 2017-2022, Visual Designer, Arts College, Chongqing University of Education, Chongqing
+- 2017-2019, Instructor&Consultant, Art Creativity Global, Chongqing
+- 2017, Cinematographer and filmmaker, Fwong Makeup &Styling Studio, Chongqing
+- 2017, Visual identity designer, Cube Art Centre, Chongqing
+- 2016, Filmmaker of post production, Dr.Ray Ltd, Zhuhai
+- 2016, Animator of Experimental film, Reorder Film Production Studio, Berlin
+- 2014, Stop-motion Designer and Animator,  **[Now They Are Here, Now They Are Not](https://vimeo.com/126324356)**, English National Opera, London
+- 2014, Visual designer and filmmaker of post production, Streetstories Social Network, London
+- 2014, Filmmaker of  **[Adverse Reaction](https://vimeo.com/98441366)**, The Old Operating Theatre, Museum Herb Garret, London 
+- 2009, Design Assistant, Zendai Art Centre, Shanghai
+
+## Projects
+- 2020 Project Second Leader, Design and development of data visualization-based learning analysis system for the Science and Technology Research Project of the Municipal Education Commission
+- 2019 Project Leader, 'Five-Dimensional'assessment and evaluation system of Illustration Design for University-level project 
+- 2019 Participated in '1+1+1'experiential teaching mode of fashion design for University-level project 
+- 2017 Participated in Chongqing municipal-level project-speciality visual communication design department
 
 ## Publication
-- **[ESPBoost: A Rapid Prototyping Toolkit for Helping Designers Create the Internet of Tangible Things](http://ceur-ws.org/Vol-2996/paper5.pdf)**. _Sark Xing, Yaliang Chuang. In proceedings of the 2021 Workshops on Computer Human Interaction in IoT Applications. CHIIoT 2021._
-- Xing, Pangrui. 2017. 折纸遥控玩具. CN 206,404,327 U, filed Dec 26, 2016, and issued August 15, 2017.
-- Xing, Pangrui. 2017. 玩具摇控驱动器. ZL 201630571980.0 , filed Nov 24, 2016, and issued June 20, 2017.
+- **[Interface, Pedagogical Agents and Chatbox in Virtual Learning Environments: An Eye Tracking Experiment]()**. Lai Wei, Kenny K. N. Chow. In The ninth Congress of the International Association of Societies of Design Research. IASDR 2021.
+- Investgating the Use of Folk Art Elements in Domestic Animation Films,Lai Wei, 2019
+- Researching on 'Five-Dimensional'Assessment and Evaluation System of Illustration Design,Lai Wei, 2019
+- The Practicability of Dynamic Image Design to Visual Education in the Context of Contemporary Visual Culture,Lai Wei, 2018
+- Media-Friendly Medium Prospection -Discussing the Leading Future of Animation Typology,Lai Wei, 2018.
 
 ## Recognition
-- 2018 Excellent Graduate _优秀毕业生_ , Industrial Design, BNUZ, achieved 87/100
-- Short-listed Award _入围奖_, 2016 China Universities Industrial Design Competition, Nov 2016
-- 2016 1st Prize Scholarship _校级一等奖学金_, Industrial Design, BNUZ, #1 ranked candidate
-- Silver Award _银奖_, 2016 Dong Guan International Industrial Design Competition
+- 2019 Product design "Continuing"primary selection to The 13th National Exhibition of Fine Arts, China 
+- 2016 Animation  <In Black> <Adverse Reaction> won the second place of the best 2D Animation Animex Awards 2016, NY.
+- 2016 Animation  <In Black> <Adverse Reaction> were selected Semi-Finalist International Open Film Festival (IOFF), NY
+- 2015 Animation  <In Black> won the second place of the best 2D Animation in The World Animation Celebration, CA.
+- 2015 Animation  <In Black> official selection to British Animation Awards, London.
+- 2015 Animation  <In Black> official selection to Semifinalist Adobe Design Achievement Award. 
+- 2015 Animation  <In Black> official selection to Taiwan International Children's Film Festival, Taiwan.
+- 2015 Animation  <In Black> official selection to China Independent Animation Film Forum, Nanjing. 
+- 2015 Animation  <In Black> official selection to Lascatolablu ENJOY! Animation Film Festival, Italy.
+- 2015 Animation  <In Black> official selection to AnimaSyros International Animation Festival, Greece.
+- 2015 Animation  <In Black> official selection to India International Children's Film Festival, India. 2015 Animation  <In Black> official selection to Near Nazareth NN Festival.
+- 2015 Animation  <In Black> <Adverse Reaction> official selection to Blackbird Film Fest.
+- 2015 Animation  <In Black> official selection to Chinese Women Film Fest.
+- 2015 Animation  <In Black> official selection to Queen City Film Festival. 
+- 2015 Animation  <In Black> official selection to Visionaria Film Fest.
+- 2015 Animation  <Adverse Reaction> official selection to Title Ruse Film Festival.
+- 2014 Animation  <Adverse Reaction> official selection to IN. S. A. N. E. Animation Film Festival.
+- 2008 Animation  <Bear Has Child> mentioned award in China Graduate Animation Competition, Beijing.
+- 2012 Animation  <Bear Has Child> mentioned award in Beijing Film Academy. 
+- 2012 Animation  <Bear Has Child> mentioned award in Animation Competition, Beijing.
+- 2009 Won the third prize of MLBTM graffiti Competition.
+- 2008-2012 Won the Outstanding student.
+- 2008-2012 Won the Third-class scholarship
 
 ## Exhibition
-- **2019 Dutch Technology Week**, Eindhoven, NL
-- **8th Guangdong Industrial Design Expo**, Dec '16
-- **2nd Biennale of The Academy Awards | The Guangdong College Design Works**, Dec '16
+- **A Technological Perspective on Fahion Design, First China Fashion Industry Innovation and Entrepreneurship Conference**, Hangzhou, 2019
+- **'iSTART Children's Art Festival' at A4 Museum**,Group Exhibition, Chengdu, 2019 
+- **'Independent Animation Film Screening' at The Post Mountain Gallery** Group Exhibition, Beijing, 2019
+- **'24 Frames Childhood'at Chengdu Contemporary Image Museum** Group Exhibition, Chengdu, 2019
+- **'+8 Chinese Independent Animation Screening' at A4 Art Museum**, Group Exhibition, Chengdu, 2019
+- **Taiwan International Children's Film Festival 2016**, Tour Exhibition, Taiwan, 2016.5-2015.8  
+- **'CUT'in The Old Operating Theatre, Museum Herb Garret, London**, Group Exhibition, London, 2012 
 
-## Teaching Experiences 
-- Teaching Assistant, **[Transformative Technologies](/tt-ta/)**, School of Design, The Hong Kong Polytechnic University
-
-## Professional Experiences 
-- **[Intel-NTU IoX Center](/ntu-iox-center/)**, Taipei, *Research Intern*, July  – August '19
-- **Official Design Research Studio**, BNUZ, *Teaching Assistant*, '16 – '17
-- **Cumulus Dafen Maker Workshop**, Shenzhen, *Selected Candidate*, Summer '15
-
-## Interests
-
-- Everyday Running Tracker: _{{<run_stats >}}_ km
-- [2021 1/4 Virtual Marathon Rotterdam@HK](/news/First-run-HK/)
-- [2020 1/4 Virtual Marathon Rotterdam@Eindhoven](images/'20_1:4_Rotterdam.jpeg)
-- [2019 Haft Marathon Eindhoven](https://results.sporthive.com/events/6587307641076513024/races/461112/bib/9374)
-- [2019 Semi Marathon Paris](https://resultscui.active.com/participants/37223619)
-- [2018 Half Marathon Eindhoven](https://results.sporthive.com/events/6456082268261875200/races/436646/bib/9871)
+## Conferences
+- 2021.12 The 9th Congress of the International Association of Societies of Design Research, Hong Kong
+- 2021.4 The 12th PhD Colloquium on Design Research, Beijing
+- 2019.12 'Wide Vision'International Forum of Visual Culture 2019: The View of Cross-Disciplinarity, Guangzhou 
+- 2018.11 Delivered a speech in Animation Scholars Roundtable Forum (Chengdu) and Western Universities Students Animation Festival Academic Proseminar
+- 2018.11 The 3rd Annual Conference of Chinese Animation Studies, Chengdu
+- 2018.10 Delivered a speech in China Youth Animation Scholars Forum, Beijing 
+- 2018.9 The 3rd International Conference on Education Research and Reform, Macao 
+- 2018.8 Ul/UX Conference China, Shanghai
+- 2018.7 Visualization and Visual Analytics Conference, Beijing
+- 2016.10 International Experimental Animation Forum, Chongqing
 
 ## Expertise
-- **Languages**: Mandarin _(native)_, Hokkien _(native)_, English _(fluent)_.
+- **Languages**: Mandarin _(native)_, English _(fluent)_.
 - **User Evaluation**: Wizard of Oz, Field study, Semi-structured interview, Thematic analysis.
 - **Prototyping**: Electronics _(PCB design/soldering)_, Modelling _(Foam/laser-cut/solidWorks)_, Sketching, Experience-able mock-up.
-- **CAD Tool**: Adobe Suite, SolidWorks, Keyshot, Final Cut Pro.
-- **Front-end**: HTML/CSS, JavaScript
-- **Back-end**: Arduino (C/C++), (L)unix script, Processing, [OOCSI,self-hosted](https://oocsi.sarkxing.design), [Data Foundry, powered by Mathias Funk](https://data.id.tue.nl), [Firebase Realtime Database](https://firebase.google.com/).
+- **CAD Tool**: Adobe Suite, , Keyshot, Final Cut Pro.
 
-{{<link-button "doc/Resume-Sep-2021.pdf" "Resume" >}} {{<link-button "doc/CV-Dec-2021.pdf" "CV">}}
+
+{{<link-button "doc/.pdf" "Resume" >}} {{<link-button "doc/CV-Weilai2020.pdf" "CV">}}
