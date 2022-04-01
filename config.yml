@@ -10,6 +10,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 disablePathToLower: true # making Hugo generate case sensitive urls
+enableEmoji: true
 
 minify:
     disableXML: true
@@ -28,7 +29,7 @@ imaging:
 
 params:
     mainSections: 
-    - projects
+    - Projects
     newsSections:
     - news
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -52,37 +53,58 @@ params:
     hideSummary: true
     showtoc: false
     tocopen: false
+
   
     # profile-mode
     profileMode:
-        enabled: false # needs to be explicitly set
-        title: ExampleSite
-        subtitle: "This is subtitle"
-        imageUrl: "<img location>"
-        imageWidth: 120
-        imageHeight: 120
+        enabled: true # needs to be explicitly set
+        title: ---
+        subtitle: "
+        My name is [**Wei Lai**](resume/). I am a [**PhD candidate at PolyU Design**](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) 
+        for designing **pedagogical agents** with meaningful gestures in virtual learning environments.
+        The study used both qualitative and quantitative methods with eye tracking technique and statistical analysis tools.
+        My research interest lies in the intersection of applied social science, linguistics and human-computer interaction to investigate human psychological needs. 
+
+        
+        I specialize in **animation design**, **moving image making** and **illustration**, and love to explore the beauty and unknown in arts world. Particularly, human figures and embodied movements are always attracted me to observe and reflect. I would love to express my thought through the materials like pastel and ink.
+
+
+        In this portfolio, you could find my latest research, design and arts work, as well as a short *biography* with my [**CV**](resume/doc/CV-Weilai2020.pdf)."
+        imageUrl: "projects/eternal/images/cover.jpg"
+        imageWidth: 900
+        imageHeight: 450
         imageTitle: my image
         buttons:
-            - name: Posts
-              url: posts
-            - name: Tags
-              url: tags
+            - name: projects
+              url: projects
+            - name: resume
+              url: resume
+              
 
     # home-info mode
     homeInfoParams:
         Title: "Hi \U0001F64F"
-        Content: "My name is [Wei Lai](resume/). I am a [PhD candidate at PolyU Design](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) 
+        Content: "
+        
+        My name is [Wei Lai](resume/). I am a [PhD candidate at PolyU Design](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) 
         for designing pedagogical agents with meaningful gestures in virtual learning environments.
         The study used both qualitative and quantitative methods with eye tracking technique and statistical analysis tools.
-        My research interest is adopting social science methods with computing tools to investigate human mental and physical needs. 
-        In this portfolio, you could find my latest research, design and arts work, a short biography with my [CV](resume/doc/CV-Weilai2020.pdf)." 
+        My research interest lies in the intersection of applied social science, linguistics and human-computer interaction to investigate human psychological needs. 
+
+        
+        I specialize in animation design, moving image making and illustration, and love to explore the beauty and unknown in arts world. Particularly, human figures and embodied movements are always attracted me to observe and reflect. I would love to express my thought through the materials like pastel and ink.
+
+
+        In this portfolio, you could find my latest research, design and arts work, as well as a short biography with my [CV](resume/doc/CV-Weilai2020.pdf)." 
 
     socialIcons:
+        - name: email
+          url: "mailto:lai.weiarts@foxmail.com"
         - name: linkedin
           url: "https://www.linkedin.com/in/lai-wei-076310ba/"
-        - name: orcid
+        - name: rss
           url: "https://orcid.org/0000-0002-5476-5450"
-        - name: vimeo
+        - name: youtube
           url: "https://vimeo.com/user26095658"
         - name: youtube
           url: "https://www.youtube.com/channel/UCmuyjkQKVcEEOxySic6K0LA"
@@ -131,16 +153,20 @@ module:
 
 menu:
     main:
-        - identifier: Projects
-          name: projects
+        - identifier: home
+          name: Home
           url: /
           weight: 10
         # - identifier: Stories
         #   name: stories
         #   url: /stories/
         #   weight: 20
+        - identifier: 
+          name: Projects
+          url: /projects
+          weight: 10       
         - identifier: Resume
-          name: resume
+          name: Resume
           url: /resume/
           weight: 30
         # - identifier: Search
@@ -148,7 +174,7 @@ menu:
         #   url: /search/
         #   weight: 40
         - identifier: Tags
-          name: tags
+          name: Tags
           url: /tags/
           weight: 40
 

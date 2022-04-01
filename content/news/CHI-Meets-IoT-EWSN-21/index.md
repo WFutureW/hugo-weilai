@@ -3,7 +3,7 @@ title: "CHIIoT'21 Workshop Paper Available at CEUR!"
 aliases: ["/CHIIoT21-Proceedings"]
 date: "2021-11-17"
 description: ""
-tags: ["Workshop", "CHIIoT", "TU Eindhoven"]
+tags: [""]
 cover:
     image: "" # image path/url
     alt: "template-alt" # alt text
@@ -35,5 +35,5 @@ CHIIoT'21 published its own proceedings with CEUR-WS, so that the position paper
     }
 
 {{<link-button "http://ceur-ws.org/Vol-2996/paper5.pdf" "Workshop paper">}}
-{{<link-button "http://ceur-ws.org/Vol-2996/" "Proceedings of CHIIoT 2021">}}
+
 

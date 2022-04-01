@@ -14,12 +14,12 @@ ShowBreadCrumbs: false
 draft: false
 ---
 
-## Naming
+## Naming 
 - **Wei Lai**, ‘ 魏莱 ’, has the same Chinese pronunciation as 'future(未来)'.
 
-## Education
+## Education :mortar_board:
 - **School of Design, The Hong Kong Polytechnic University**, *Hong Kong SAR, China*
-    - [Ph.D. Student](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) 2019 - Present, *Design*, specializing in exploring pedagogical agents with meaningful gestures, virtual learning Platform, research methods.
+    - [Ph.D. Candidate](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) 2019 - Present, *Design*, specializing in exploring pedagogical agents with meaningful gestures, virtual learning Platform, research methods.
 
 - **Central Saint Martins, University of the Arts, London**, *London, UK* 
     - MA. 2013 – 2015, *Character Animation*, specializing in 2D Animation, Computer Art, and Illustration.
@@ -53,13 +53,14 @@ draft: false
 - 2017 Participated in Chongqing municipal-level project-speciality visual communication design department
 
 ## Publication
-- **[Interface, Pedagogical Agents and Chatbox in Virtual Learning Environments: An Eye Tracking Experiment]()**. Lai Wei, Kenny K. N. Chow. In The ninth Congress of the International Association of Societies of Design Research. IASDR 2021.
-- Investgating the Use of Folk Art Elements in Domestic Animation Films,Lai Wei, 2019
-- Researching on 'Five-Dimensional'Assessment and Evaluation System of Illustration Design,Lai Wei, 2019
-- The Practicability of Dynamic Image Design to Visual Education in the Context of Contemporary Visual Culture,Lai Wei, 2018
-- Media-Friendly Medium Prospection -Discussing the Leading Future of Animation Typology,Lai Wei, 2018.
+- **[Interface, Pedagogical Agents and Chatbox in Virtual Learning Environments: An Eye Tracking Experiment]()**. *Lai Wei, Kenny K. N. Chow*. In The ninth Congress of the International Association of Societies of Design Research. IASDR 2021.
+- Investgating the Use of Folk Art Elements in Domestic Animation Films,*Lai Wei*, 2019
+- Researching on 'Five-Dimensional'Assessment and Evaluation System of Illustration Design,*Lai Wei*, 2019
+- The Practicability of Dynamic Image Design to Visual Education in the Context of Contemporary Visual Culture,*Lai Wei*, 2018
+- Media-Friendly Medium Prospection -Discussing the Leading Future of Animation Typology,*Lai Wei*, 2018.
 
 ## Recognition
+- 2021 Best Presenter Award in the 12th PhD Colloquium on Design Research, hosted by Tsinghua University’s Academy of Arts & Design 
 - 2019 Product design "Continuing"primary selection to The 13th National Exhibition of Fine Arts, China 
 - 2016 Animation  <In Black> <Adverse Reaction> won the second place of the best 2D Animation Animex Awards 2016, NY.
 - 2016 Animation  <In Black> <Adverse Reaction> were selected Semi-Finalist International Open Film Festival (IOFF), NY
@@ -70,7 +71,8 @@ draft: false
 - 2015 Animation  <In Black> official selection to China Independent Animation Film Forum, Nanjing. 
 - 2015 Animation  <In Black> official selection to Lascatolablu ENJOY! Animation Film Festival, Italy.
 - 2015 Animation  <In Black> official selection to AnimaSyros International Animation Festival, Greece.
-- 2015 Animation  <In Black> official selection to India International Children's Film Festival, India. 2015 Animation  <In Black> official selection to Near Nazareth NN Festival.
+- 2015 Animation  <In Black> official selection to India International Children's Film Festival, India. 
+- 2015 Animation  <In Black> official selection to Near Nazareth NN Festival.
 - 2015 Animation  <In Black> <Adverse Reaction> official selection to Blackbird Film Fest.
 - 2015 Animation  <In Black> official selection to Chinese Women Film Fest.
 - 2015 Animation  <In Black> official selection to Queen City Film Festival. 
@@ -96,7 +98,7 @@ draft: false
 ## Conferences
 - 2021.12 The 9th Congress of the International Association of Societies of Design Research, Hong Kong
 - 2021.4 The 12th PhD Colloquium on Design Research, Beijing
-- 2019.12 'Wide Vision'International Forum of Visual Culture 2019: The View of Cross-Disciplinarity, Guangzhou 
+- 2019.12 'Wide Vision'International Forum of Visual Culture 2019: The View of Cross-disciplinarity, Guangzhou 
 - 2018.11 Delivered a speech in Animation Scholars Roundtable Forum (Chengdu) and Western Universities Students Animation Festival Academic Proseminar
 - 2018.11 The 3rd Annual Conference of Chinese Animation Studies, Chengdu
 - 2018.10 Delivered a speech in China Youth Animation Scholars Forum, Beijing 
@@ -107,9 +109,10 @@ draft: false
 
 ## Expertise
 - **Languages**: Mandarin _(native)_, English _(fluent)_.
-- **User Evaluation**: Wizard of Oz, Field study, Semi-structured interview, Thematic analysis.
-- **Prototyping**: Electronics _(PCB design/soldering)_, Modelling _(Foam/laser-cut/solidWorks)_, Sketching, Experience-able mock-up.
-- **CAD Tool**: Adobe Suite, , Keyshot, Final Cut Pro.
+- **Research Methods**: Mix methods, Lab experiment, Discourse analysis, Multimodal discourse analysis, Case study, Semi-structured interview, Survey, Thematic analysis, Speech analysis in phonetics, Corpus analysis.
+- **Design Methods**: User-center design, User Experience Design, Participatory Design, Laddering interview.
+- **Research Tools**: Eye tracking, ELAN, CLAN, SPSS, R, Praat, Prism 9, VOSviewer, Microsoft suit.
+- **CAD Tool**: Adobe suite, TVPaint, Final cut pro, Nomad, Procreate.
 
 
-{{<link-button "doc/.pdf" "Resume" >}} {{<link-button "doc/CV-Weilai2020.pdf" "CV">}}
+ {{<link-button "doc/CV-Weilai2020.pdf" "CV">}}
