@@ -70,9 +70,9 @@ params:
 
 
         In this portfolio, you could find my latest research, design and arts work, as well as a short *biography* with my [**CV**](resume/doc/CV-Weilai2020.pdf)."
-        imageUrl: "projects/eternal/images/cover.jpg"
-        imageWidth: 900
-        imageHeight: 450
+        imageUrl: "projects/eternal/images/hands_cover_1.webp"
+        imageWidth: 1000
+        imageHeight: 550
         imageTitle: my image
         buttons:
             - name: projects
