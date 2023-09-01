@@ -19,7 +19,7 @@ draft: false
 
 ## Education :mortar_board:
 - **School of Design, The Hong Kong Polytechnic University**, *Hong Kong SAR, China*
-    - [Ph.D. Candidate](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) 2019 - Present, *Design*, specializing in exploring pedagogical agents with meaningful gestures, virtual learning Platform, research methods.
+    - [Ph.D. Candidate](https://www.polyu.edu.hk/sd/research/phd-research-and-works/wei-lai/) 2019 - Present, *Design*, specializing in exploring pedagogical agents with meaningful gestures, virtual learning Platform, multimodal interaction, research methods.
 
 - **Central Saint Martins, University of the Arts, London**, *London, UK* 
     - MA. 2013 – 2015, *Character Animation*, specializing in 2D Animation, Computer Art, and Illustration.
@@ -36,11 +36,12 @@ draft: false
 
 ## Experiences in Industry
 - 2017-2022, Visual Designer, Arts College, Chongqing University of Education, Chongqing
+- 2019, Animator, Minsheng Bank, Beijing
 - 2017-2019, Instructor&Consultant, Art Creativity Global, Chongqing
 - 2017, Cinematographer and filmmaker, Fwong Makeup &Styling Studio, Chongqing
 - 2017, Visual identity designer, Cube Art Centre, Chongqing
 - 2016, Filmmaker of post production, Dr.Ray Ltd, Zhuhai
-- 2016, Animator of Experimental film, Reorder Film Production Studio, Berlin
+- 2016, Animator of Experimental Film, Reorder Film Production Studio, Berlin
 - 2014, Stop-motion Designer and Animator,  **[Now They Are Here, Now They Are Not](https://vimeo.com/126324356)**, English National Opera, London
 - 2014, Visual designer and filmmaker of post production, Streetstories Social Network, London
 - 2014, Filmmaker of  **[Adverse Reaction](https://vimeo.com/98441366)**, The Old Operating Theatre, Museum Herb Garret, London 
@@ -53,7 +54,10 @@ draft: false
 - 2017 Participated in Chongqing municipal-level project-speciality visual communication design department
 
 ## Publication
-- **[Interface, Pedagogical Agents and Chatbox in Virtual Learning Environments: An Eye Tracking Experiment]()**. *Lai Wei, Kenny K. N. Chow*. In The ninth Congress of the International Association of Societies of Design Research. IASDR 2021.
+- **[When Gestures and Words Synchronize: Exploring A Human Lecturer’s Multimodal Interaction for the Design of Embodied Pedagogical Agents](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=-xeTHc8AAAAJ)**. *Lai Wei, Kenny K. N. Chow*. the 2023 Conference on Computer Supported Cooperative Work and Social Computing. CSCW 2023.
+- **[How Students Perceive Lecturers' Gestures? An Exploration In Gesture-meaning Matching Toward Embodied Pedagogical Agent Design](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=-xeTHc8AAAAJ)**. *Lai Wei, Kenny K. N. Chow*. International Association of Societies of Design Research Congress. IASDR 2023.
+- **[Who Shapes the Network of a Pedagogical Space? Clues from the Movements in the Physical Places](https://link.springer.com/chapter/10.1007/978-3-031-20436-4_14)**. *Lai Wei, Kenny K. N. Chow*. International Conference on Advances in Mobile Computing and Multimedia Intelligence. MoMM 2022.
+- **[Interface, Pedagogical Agents and Chatbox in Virtual Learning Environments: An Eye Tracking Experiment](https://link.springer.com/chapter/10.1007/978-981-19-4472-7_28)**. *Lai Wei, Kenny K. N. Chow*. In The ninth Congress of the International Association of Societies of Design Research. IASDR 2021.
 - Investgating the Use of Folk Art Elements in Domestic Animation Films,*Lai Wei*, 2019
 - Researching on 'Five-Dimensional'Assessment and Evaluation System of Illustration Design,*Lai Wei*, 2019
 - The Practicability of Dynamic Image Design to Visual Education in the Context of Contemporary Visual Culture,*Lai Wei*, 2018
@@ -79,7 +83,7 @@ draft: false
 - 2015 Animation  <In Black> official selection to Visionaria Film Fest.
 - 2015 Animation  <Adverse Reaction> official selection to Title Ruse Film Festival.
 - 2014 Animation  <Adverse Reaction> official selection to IN. S. A. N. E. Animation Film Festival.
-- 2008 Animation  <Bear Has Child> mentioned award in China Graduate Animation Competition, Beijing.
+- 2012 Animation  <Bear Has Child> mentioned award in China Graduate Animation Competition, Beijing.
 - 2012 Animation  <Bear Has Child> mentioned award in Beijing Film Academy. 
 - 2012 Animation  <Bear Has Child> mentioned award in Animation Competition, Beijing.
 - 2009 Won the third prize of MLBTM graffiti Competition.
@@ -96,23 +100,24 @@ draft: false
 - **'CUT'in The Old Operating Theatre, Museum Herb Garret, London**, Group Exhibition, London, 2012 
 
 ## Conferences
-- 2021.12 The 9th Congress of the International Association of Societies of Design Research, Hong Kong
-- 2021.4 The 12th PhD Colloquium on Design Research, Beijing
-- 2019.12 'Wide Vision'International Forum of Visual Culture 2019: The View of Cross-disciplinarity, Guangzhou 
-- 2018.11 Delivered a speech in Animation Scholars Roundtable Forum (Chengdu) and Western Universities Students Animation Festival Academic Proseminar
-- 2018.11 The 3rd Annual Conference of Chinese Animation Studies, Chengdu
-- 2018.10 Delivered a speech in China Youth Animation Scholars Forum, Beijing 
-- 2018.9 The 3rd International Conference on Education Research and Reform, Macao 
-- 2018.8 Ul/UX Conference China, Shanghai
-- 2018.7 Visualization and Visual Analytics Conference, Beijing
-- 2016.10 International Experimental Animation Forum, Chongqing
+- 2023.10 _Presenter_  The 2023 Conference on Computer Supported Cooperative Work and Social Computing, Minneapolis
+- 2023.10 _Presenter_ The 10th Congress of the International Association of Societies of Design Research, Milano
+- 2023.7 _Invited speaker_ The 10th China Visualization and Visual Analytics Conference, Chongqing
+- 2022.11 _Presenter_  International Conference on Advances in Mobile Computing and Multimedia Intelligence, Virtual
+- 2021.12 _Presenter_  The 9th Congress of the International Association of Societies of Design Research, Hong Kong
+- 2021.4 _Presenter_ The 12th PhD Colloquium on Design Research, Beijing
+- 2019.12 _Presenter_ 'Wide Vision'International Forum of Visual Culture 2019: The View of Cross-disciplinarity, Guangzhou 
+- 2018.11 _Invited speaker_ Delivered a speech in Animation Scholars Roundtable Forum (Chengdu) and Western Universities Students Animation Festival Academic Proseminar
+- 2018.11 _Invited speaker_ The 3rd Annual Conference of Chinese Animation Studies, Chengdu
+- 2018.10 _Presenter_ Delivered a speech in China Youth Animation Scholars Forum, Beijing 
+- 2018.9 _Presenter_ The 3rd International Conference on Education Research and Reform, Macao 
 
 ## Expertise
 - **Languages**: Mandarin _(native)_, English _(fluent)_.
 - **Research Methods**: Mix methods, Lab experiment, Discourse analysis, Multimodal discourse analysis, Case study, Semi-structured interview, Survey, Thematic analysis, Speech analysis in phonetics, Corpus analysis.
-- **Design Methods**: User-center design, User Experience Design, Participatory Design, Laddering interview.
-- **Research Tools**: Eye tracking, ELAN, CLAN, SPSS, R, Praat, Prism 9, VOSviewer, Microsoft suit.
-- **CAD Tool**: Adobe suite, TVPaint, Final cut pro, Nomad, Procreate.
+- **Design Methods**: User-center design, User Experience Design, User Test, Participatory Design, Laddering interview.
+- **Research Tools**: Eye tracking, ELAN, CLAN, SPSS, R, Praat, NVivo, Prism 9, VOSviewer, Microsoft suit.
+- **CAD Tool**: Adobe suite, TVPaint, Final cut pro, Nomad, Reality Composer, Procreate.
 
 
  {{<link-button "doc/CV-Weilai2020.pdf" "CV">}}
