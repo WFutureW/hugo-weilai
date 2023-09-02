@@ -35,10 +35,11 @@ draft: false
 - 2016, Instructor, **[Visual Communication Design (BA)](http://sjcm.cqysxy.com/)**, Chongqing Vocational College of Art and Engineering, Chongqing 
 
 ## Experiences in Industry
+- 2023, Cameraman, Public Art Commission **[Treatment III](https://www.youtube.com/watch?v=Bug3CWS6PE4)**, Melbourne
 - 2017-2022, Visual Designer, Arts College, Chongqing University of Education, Chongqing
 - 2019, Animator, Minsheng Bank, Beijing
 - 2017-2019, Instructor&Consultant, Art Creativity Global, Chongqing
-- 2017, Cinematographer and filmmaker, Fwong Makeup &Styling Studio, Chongqing
+- 2017, Cameraman and filmmaker, Fwong Makeup &Styling Studio, Chongqing
 - 2017, Visual identity designer, Cube Art Centre, Chongqing
 - 2016, Filmmaker of post production, Dr.Ray Ltd, Zhuhai
 - 2016, Animator of Experimental Film, Reorder Film Production Studio, Berlin
@@ -120,4 +121,4 @@ draft: false
 - **CAD Tool**: Adobe suite, TVPaint, Final cut pro, Nomad, Reality Composer, Procreate.
 
 
- {{<link-button "doc/CV-Weilai2020.pdf" "CV">}}
+ {{<link-button "doc/Resume_23.pdf" "CV">}}
