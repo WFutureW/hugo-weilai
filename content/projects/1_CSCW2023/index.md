@@ -4,7 +4,7 @@ date: "2023-09-01"
 description: ""
 tags: ["ResearchProject", "Multimodal Interaction", "Human Factor", "Gesture", "Pedagogical Agent", "Learning"]
 cover:
-    image: "images/CSCW_2023_1.png" # image path/url
+    image: "images/CSCW_poster-01_copy.png" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
 
