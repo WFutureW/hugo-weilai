@@ -34,3 +34,4 @@ Embodied Pedagogical Agents (EPAs) possess significant potential for utilizing m
 
 **Keywords: *Pedagogical agent, Gesture, Word synchronized, Multimodal interaction, Human behavior*.**
 
+{{< figure width=100% align=center src="images/CSCW_poster-01.jpg" caption="" >}}
