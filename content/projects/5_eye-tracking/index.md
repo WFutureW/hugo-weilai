@@ -33,6 +33,8 @@ This paper is included in The ninth Congress of the International Association of
 
 Scholars in education over the past few decades have discussed at length computer-based interactive learning through the conceptual framework of cognitive science. Yet, very few studies look at the design of visual content in technology-mediated learning and its effects on information dissemination. During the COVID-19 pandemic, the situation in online education revealed that the potential of visual and non-verbal design attributes in learning is underexplored. This study employed a 2X2 experimental design. An Eyelink 1000 plus eye-tracker was used to record student participants’ eye movements to determine how they looked at the interface layout, the chat box, and pedagogical agents with text cues. The participants’ learning performance were measured with retention and transfer tests. Results showed that the interface design, chat box and pedagogical agents interfere with students’ learning performance and visual attendance, which proves spatial contiguity effect, coherence effect and redundancy effect from the cognitive theory of multimedia learning. The present study results support the hypothesis that visual design is fundamental for effective virtual learning environments.
 
+https://doi.org/10.1007/978-981-19-4472-7_28
+
 **Keywords: *Virtual Learning Environments; Learning Information Transmission; Multimedia Learning; Interface Design; Pedagogical Agents; Chatbox; Eye Tracking*;**
 
 {{< figure width=100% align=center src="images/Screen-3.jpg" caption="*Table 1. Condition Explaination of Experiment Design.*" >}}

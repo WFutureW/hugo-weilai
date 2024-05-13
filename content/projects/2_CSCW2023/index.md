@@ -32,6 +32,8 @@ hidden: false
 
 Embodied Pedagogical Agents (EPAs) possess significant potential for utilizing multimodal interactions to effectively convey social and educational information. While previous studies have examined the impact of EPAs on learning performance, the incorporation of meaningful gestures into EPAs remains relatively unexplored. This study employs a case study approach and systemic functional-multimodal discourse analysis to investigate the multimodal interactions of a human lecturer during teaching and explores the relationship between in-class meaningful gestures and corresponding words. We analyze the alignment between gestures, words, and contextual meanings, with a specific focus on personal pronouns, adjectives, adverbs, and verbs. The findings contribute to the understanding of lecturers' multimodal orchestration in classroom settings. Additionally, we provide a preliminary design guideline for EPAs that integrates meaningful word-synchronized gestures, utilizing multimodal information to enhance students' embodied learning experiences. This research contributes to the advancement of embodied pedagogical agent design and the broader field of multimodal interaction.
 
+https://doi.org/10.1145/3584931.3607010
+
 **Keywords: *Pedagogical agent, Gesture, Word synchronized, Multimodal interaction, Human behavior*.**
 
 {{< figure width=100% align=center src="images/CSCW_poster-01.jpg" caption="" >}}

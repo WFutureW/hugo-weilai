@@ -31,6 +31,8 @@ hidden: false
 > ### Abstract
 Many studies have demonstrated that meaningful gestures, such as iconic and metaphoric gestures, can significantly aid students' comprehension and enhance their learning engagement. Additionally, virtual lecturers have had a positive impact on students' online learning experiences. However, there is currently no concrete evidence on how students recognize and interpret these gestures. Investigating students' comprehension of natural gestures used by lecturers can provide valuable insights for creating embodied gestural pedagogical agents (PAs). This paper conducted empirical studies to investigate how students recognized and interpreted gestures used by lecturers in real-life design classes. Through the analysis of four sets of paired cases, including observations and semi-structured interviews, we propose a matching model that illustrates nonverbal communication between lecturers and students. Our results indicate that the meanings of meaningful gestures commonly used by lecturers are reasonably equivalent to students' understanding of those gestures. However, there exists a significant misunderstanding between lecturers' specific gestures and students' comprehension. This research explores patterns of gesture-meaning matching for multimodal communication, which holds promise in creating a student-centered gestural PA design.
 
+https://doi.org/10.21606/iasdr.2023.115
+
 **Keywords: *gesture, pedagogical agent, embodied learning, empirical study*.**
 
 {{< figure width=100% align=center src="images/g-2.jpg" caption="" >}}
