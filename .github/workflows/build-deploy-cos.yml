@@ -26,13 +26,13 @@ jobs:
       - name: Update theme to Latest commit
         run: git submodule update --remote --merge
 
-      - name: Setup hugo
-        uses: peaceiris/actions-hugo@v2
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.139.4'
 
       - name: Build
-        run: hugo --buildDrafts --gc --verbose --minify
+        run: hugo --buildDrafts --gc --minify
 
       - name: Deploy
         uses: TencentCloud/cos-action@v1
