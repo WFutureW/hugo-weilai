@@ -19,7 +19,9 @@ draft: false
 
 ## Education :mortar_board:
 - **School of Design, The Hong Kong Polytechnic University**, *Hong Kong SAR, China*
-    - [Ph.D. Candidate](https://www.polyu.edu.hk/sd/research/phd-research-and-works/wei-lai/) 2019 - Present, *Design*, specializing in exploring pedagogical agents with meaningful gestures, virtual learning Platform, multimodal interaction, research methods.
+    - **Ph.D.** 2019 - 2024, *Design*, specializing in AI instructor design, gesture design, virtual learning platform, multimodal interaction, research methods.
+    - **Dissertation topic:** [Animated Gestures: Pedagogical Agents’ Meaningful Instructional Gesture Design for Effective Educational Information Presentation.](https://theses.lib.polyu.edu.hk/handle/200/12889)
+    - **Dissertation committee:** Kenny K. N. Chow (Chief supervisor), Jaden Park (BoE Chair), Wang Minjuan (External examiner), Dragan Gasevic (External examiner)
 
 - **Central Saint Martins, University of the Arts, London**, *London, UK* 
     - MA. 2013 – 2015, *Character Animation*, specializing in 2D Animation, Computer Art, and Illustration.
@@ -29,10 +31,13 @@ draft: false
     - ['08 - '20 Arts Porfolio"](doc/WeiLai-Portfolio.pdf)
 
 ## Experiences in Universities
+- 2024 – Present, PostDoc, [**Brain, Language, and Computation Laboratory**](https://blclab.org/), Department of Chinese and Bilingual Studies, The Hong Kong Polytechnic University
+- 2023 – 2024, Research Associate, Consultancy Services for [**Well-Being Design Guide in Public Housing Development**](https://housingwellbeing.hk/en/design-guide/), The Hong Kong Polytechnic University and Architecture Commons
+- 06-12 2022, Research Assistant, The Challenges and Opportunities in AIoT UX Design: A Comparison Study of AIoT, IoT and Conventional Healthcare Appliances, The Hong Kong Polytechnic University
 - 2019 – 2022, Teaching Assistant, **[Interaction Design (MDes)](https://www.sd.polyu.edu.hk/en/study-detail/interaction-design)**, School of Design, The Hong Kong Polytechnic University
 - 2019 – 2022, Teaching Assistant, **[Interactive Media (BA)](https://www.sd.polyu.edu.hk/en/study-detail/ba-hons-in-interactive-media)**, School of Design, The Hong Kong Polytechnic University
-- 2017 – Present, Instructor, **[Visual Communication Design (BA)](https://www.cque.edu.cn/msx/)**, Arts College, Chongqing University of Education
-- 2016, Instructor, **[Visual Communication Design (BA)](http://sjcm.cqysxy.com/)**, Chongqing Vocational College of Art and Engineering, Chongqing 
+- 2017 – 2024, Lecturer, **[Visual Communication Design (BA)](https://www.cque.edu.cn/msx/)**, Arts College, Chongqing University of Education
+- 2016, Lecturer, **[Visual Communication Design (BA)](http://sjcm.cqysxy.com/)**, Chongqing Vocational College of Art and Engineering, Chongqing 
 
 ## Experiences in Industry
 - 2023, Cameraman, Public Art Commission **[Treatment III](https://www.youtube.com/watch?v=Bug3CWS6PE4)**, Melbourne

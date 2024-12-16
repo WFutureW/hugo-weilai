@@ -60,17 +60,17 @@ params:
         enabled: true # needs to be explicitly set
         title: ---
         subtitle: "
-        My name is [**Wei Lai**](resume/). I am a [**PhD candidate at PolyU Design**](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) 
-        for designing **pedagogical agents** with meaningful gestures in virtual learning environments.
+        My name is [**Wei Lai**](resume/). I am currently a PostDoc at the [**Brain, Language, and Computation (BLC) Lab**](https://blclab.org/). I earned my  [**PhD from PolyU Design**](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai),
+        focusing on designing **pedagogical agents** with meaningful gestures in virtual learning environments.
         The study used both qualitative and quantitative methods with eye tracking technique and statistical analysis tools.
         My research interest lies in the intersection of applied social science, linguistics and human-computer interaction to investigate human psychological needs. 
 
         
-        I specialize in designing [**animation**](https://weilai.media/projects/5_InBlack/), [**moving image**](https://weilai.media/projects/3_publicity_film_design/) and [**illustration**](https://weilai.media/projects/7_illustration/), and love to explore the beauty and unknown in arts world. Particularly, human figures and embodied movements are always attracted me to observe and reflect. I would love to express my thought through the materials like pastel and ink.
+        I specialize in designing [**animation**](https://weilai.media/projects/5_InBlack/), [**moving image**](https://weilai.media/projects/3_publicity_film_design/) and [**illustration**](https://weilai.media/projects/7_illustration/), and love to explore the beauty and unknown in arts world. Particularly, human figures and embodied movements are always attracted me to observe and reflect. I would love to express my thought different materials like virtual avatars, interactive sensors, pastel, and ink.
 
 
         In this portfolio, you could find my latest research, design and arts work, as well as a short *biography* with my [**CV**](resume/doc/Resume_23.pdf)."
-        imageUrl: "projects/3_publicity_film_design/images/hands_cover_1.gif"
+        imageUrl: "projects/4_publicity_film_design/images/hands_cover_1.gif"
         imageWidth: 1000
         imageHeight: 550
         imageTitle: my image
@@ -98,13 +98,13 @@ params:
         Title: "Hi \U0001F64F"
         Content: "
         
-        My name is [Wei Lai](resume/). I am a [PhD candidate at PolyU Design](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) 
+        My name is [Wei Lai](resume/). I am a [PhD at PolyU Design](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) 
         for designing pedagogical agents with meaningful gestures in virtual learning environments.
         The study used both qualitative and quantitative methods with eye tracking technique and statistical analysis tools.
         My research interest lies in the intersection of applied social science, linguistics and human-computer interaction to investigate human psychological needs. 
 
         
-        I specialize in animation design, moving image making and illustration, and love to explore the beauty and unknown in arts world. Particularly, human figures and embodied movements are always attracted me to observe and reflect. I would love to express my thought through the materials like pastel and ink.
+        I specialize in animation design, moving image making and illustration, and love to explore the beauty and unknown in arts world. Particularly, human figures and embodied movements are always attracted me to observe and reflect. I would love to express my thought through different materials like virtual avatars, interactive sensors, pastel, and ink.
 
 
         In this portfolio, you could find my latest research, design and arts work, as well as a short biography with my [CV](resume/doc/Resume_23.pdf)." 
