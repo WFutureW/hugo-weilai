@@ -1,0 +1,10 @@
+{{- $img := "" }}
+{{- if not (urls.Parse .imageUrl).IsAbs }}
+    {{- $img = resources.Get .imageUrl }}
+{{- end }}
+{{- if $img }}
+<img draggable="false" class="profile_photo" src="{{ $img.Permalink }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
+    width="{{ $img.Width }}" height="{{ $img.Height }}" />
+{{- else }}
+<img draggable="false" class="profile_photo" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}" />
+{{- end }}

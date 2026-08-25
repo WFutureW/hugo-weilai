@@ -4,13 +4,14 @@
 }
 
 .profile .profile_inner {
-    max-width: 42rem;
+    max-width: 780px;
 }
 
 .profile .profile_bio {
     text-align: left;
     line-height: 1.65;
     margin: 0.5rem 0 1.25rem;
+    max-width: 42rem;
 }
 
 .profile .profile_bio p {
@@ -39,4 +40,22 @@
 
 .buttons {
     max-width: 520px;
+}
+
+.profile_hero,
+.profile_footer_image {
+    width: 100%;
+}
+
+.profile_footer_image {
+    margin-top: 1.5rem;
+}
+
+.profile img.profile_photo {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius);
+    object-fit: contain;
+    pointer-events: none;
 }

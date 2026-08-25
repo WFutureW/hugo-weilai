@@ -1,7 +1,7 @@
 baseURL: https://weilai.media/
 languageCode: en-us
 title: Wei Lai
-paginate: 12
+paginate: 20
 theme: 
   - "PaperMod"
 
@@ -71,10 +71,11 @@ params:
             - [Multimodal gesture corpus](/projects/0_multimodal-corpus/) (in progress)
 
             [**Research**](/research/), [**projects**](/projects/), and [**CV**](/resume/).
+        # current GIF stays below the buttons, at its native 780×553
         imageUrl: "projects/4_publicity_film_design/images/hands_cover_1.gif"
-        imageWidth: 1000
-        imageHeight: 550
         imageTitle: my image
+        # add a new top image here later (same display width as the site: 780px)
+        heroImageUrl: ""
         buttons:
             - name: research
               url: research

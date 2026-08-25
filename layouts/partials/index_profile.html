@@ -1,35 +1,14 @@
 <div class="profile">
     {{- with site.Params.profileMode }}
     <div class="profile_inner">
-        {{- if .imageUrl -}}
-        {{- $img := "" }}
-        {{- if not (urls.Parse .imageUrl).IsAbs }}
-            {{- $img = resources.Get .imageUrl }}
+        {{- /* top slot for a new hero; nothing renders until heroImageUrl is set */}}
+        {{- if .heroImageUrl }}
+        <div class="profile_hero">
+            {{- $hero := dict "imageUrl" .heroImageUrl "imageTitle" (.heroImageTitle | default "hero image") }}
+            {{- partial "profile_img.html" $hero }}
+        </div>
         {{- end }}
-        {{- if $img }}
-            {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}
-            {{- if hugo.IsExtended -}}
-                {{- $processableFormats = $processableFormats | append "webp" -}}
-            {{- end -}}
-            {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
-            {{- if and (in $processableFormats $img.MediaType.SubType) (eq $prod true)}}
-                {{- if (not (and (not .imageHeight) (not .imageWidth))) }}
-                    {{- $img = $img.Resize (printf "%dx%d" .imageWidth .imageHeight) }}
-                {{- else if .imageHeight }}
-                    {{- $img = $img.Resize (printf "x%d" .imageHeight) }}
-                {{ else if .imageWidth }}
-                    {{- $img = $img.Resize (printf "%dx" .imageWidth) }}
-                {{ else }}
-                    {{- $img = $img.Resize "150x150" }}
-                {{- end }}
-            {{- end }}
-            <img draggable="false" src="{{ $img.Permalink }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
-                height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
-        {{- else }}
-        <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
-            height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
-        {{- end }}
-        {{- end }}
+
         {{- if and .title (ne .title "---") }}
         <h1>{{ .title | markdownify }}</h1>
         {{- end }}
@@ -53,6 +32,13 @@
                 </span>
             </a>
             {{- end }}
+        </div>
+        {{- end }}
+
+        {{- if .imageUrl }}
+        <div class="profile_footer_image">
+            {{- $footer := dict "imageUrl" .imageUrl "imageTitle" (.imageTitle | default "profile image") }}
+            {{- partial "profile_img.html" $footer }}
         </div>
         {{- end }}
     </div>
