@@ -1,0 +1,42 @@
+.main .profile {
+    min-height: unset;
+    padding: 1.5rem 0 2.5rem;
+}
+
+.profile .profile_inner {
+    max-width: 42rem;
+}
+
+.profile .profile_bio {
+    text-align: left;
+    line-height: 1.65;
+    margin: 0.5rem 0 1.25rem;
+}
+
+.profile .profile_bio p {
+    margin: 0.85em 0;
+}
+
+.profile .profile_bio h2,
+.profile .profile_bio h3 {
+    font-size: 1.05rem;
+    margin: 1.4em 0 0.4em;
+    text-align: left;
+}
+
+.profile .profile_bio ul {
+    text-align: left;
+    margin: 0.3em 0 1em 1.1em;
+}
+
+.profile .profile_bio li {
+    margin: 0.35em 0;
+}
+
+.profile .social-icons {
+    justify-content: center;
+}
+
+.buttons {
+    max-width: 520px;
+}

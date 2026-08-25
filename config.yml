@@ -1,7 +1,7 @@
 baseURL: https://weilai.media/
 languageCode: en-us
 title: Wei Lai
-paginate: 6
+paginate: 12
 theme: 
   - "PaperMod"
 
@@ -33,10 +33,10 @@ params:
     newsSections:
     - news
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Portfolio by Wei Lai
-    description: "A collection of Wei Lai's work"
-    keywords: [Portfolio, Wei Lai, ]
-    author: Me
+    title: Wei Lai
+    description: "Design-led research on embodied AI tutors, instructional gestures, and multimodal learning technologies."
+    keywords: [Wei Lai, embodied AI tutors, pedagogical agents, instructional gestures, multimodal learning, AI in education, animation]
+    author: Wei Lai
     images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
     defaultTheme: auto # dark, light
@@ -58,23 +58,36 @@ params:
     # profile-mode
     profileMode:
         enabled: true # needs to be explicitly set
-        title: ---
-        subtitle: "
-        My name is [**Wei Lai**](resume/). I am currently a PostDoc at the [**Brain, Language, and Computation (BLC) Lab**](https://blclab.org/). I earned my  [**PhD from PolyU Design**](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai),
-        focusing on designing **pedagogical agents** with meaningful gestures in virtual learning environments.
-        The study used both qualitative and quantitative methods with eye tracking technique and statistical analysis tools.
-        My research interest lies in the intersection of applied social science, linguistics and human-computer interaction to investigate human psychological needs. 
+        title: ""
+        subtitle: |
+            **Design-led research on embodied AI tutors, instructional gestures, and multimodal learning technologies.**
 
-        
-        I specialize in designing [**animation**](https://weilai.media/projects/5_InBlack/), [**moving image**](https://weilai.media/projects/3_publicity_film_design/) and [**illustration**](https://weilai.media/projects/7_illustration/), and love to explore the beauty and unknown in arts world. Particularly, human figures and embodied movements are always attracted me to observe and reflect. I would love to express my thought different materials like virtual avatars, interactive sensors, pastel, and ink.
+            Postdoctoral Fellow, PolyU Language Science and Technology. I work across animation design, language–gesture science, and AI-enhanced instruction.
 
+            I am [**Wei Lai**](/resume/). I completed my [**PhD at PolyU Design**](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) on pedagogical agents and meaningful instructional gesture, using qualitative and quantitative methods including eye tracking. I am currently a postdoc in the [**Chen Si Lab**](https://sichen-lab.com/) (after [**BLC Lab**](https://blclab.org/)), building a multimodal instructional gesture corpus with South China Normal University and CS collaborators.
 
-        In this portfolio, you could find my latest research, design and arts work, as well as a short *biography* with my [**CV**](resume/doc/Resume_23.pdf)."
+            I also specialize in [**animation**](/projects/6_InBlack/), [**moving image**](/projects/4_publicity_film_design/) and [**illustration**](/projects/8_illustration/). Human figures and embodied movements are what I keep watching; I work with virtual avatars, interactive sensors, pastel, and ink.
+
+            **Current directions**
+
+            1. **Embodied AI Tutors** — Design and evaluate instructional gestures for pedagogical agents
+            2. **Multimodal Corpus** — Dialogue gesture data with cross-institutional CS collaboration
+            3. **Platform Pipeline** — From human instruction evidence to recognition, production, and deployment in AI tutors
+
+            **Featured work**
+
+            - [IJHCI 2026](/projects/0_IJHCI2026/): Framework for designing and evaluating instructional gestures in embodied AI teachers
+            - [Computers & Education (under review)](/projects/0_CompEd-humanness/): How perceived humanness in embodied pedagogical agents affects feedback uptake and revision
+            - [Current: Multimodal instructional gesture corpus (PolyU × SCNU)](/projects/0_multimodal-corpus/)
+
+            In this portfolio: research, design, and arts work, plus a [**CV**](/resume/).
         imageUrl: "projects/4_publicity_film_design/images/hands_cover_1.gif"
         imageWidth: 1000
         imageHeight: 550
         imageTitle: my image
         buttons:
+            - name: research
+              url: research
             - name: projects
               url: projects
             - name: resume
@@ -82,12 +95,14 @@ params:
 
         socialIcons:
             - name: email
-              url: "mailto:lai.weiarts@foxmail.com"
+              url: "mailto:cbs-lai.wei@polyu.edu.hk"
             - name: linkedin
-              url: "https://www.linkedin.com/in/lai-wei-076310ba/"
-            - name: rss
+              url: "https://www.linkedin.com/in/lai-wei-media/"
+            - name: googlescholar
+              url: "https://scholar.google.com/citations?user=-xeTHc8AAAAJ"
+            - name: orcid
               url: "https://orcid.org/0000-0002-5476-5450"
-            - name: youtube
+            - name: vimeo
               url: "https://vimeo.com/laiwei"
             - name: youtube
               url: "https://www.youtube.com/channel/UCmuyjkQKVcEEOxySic6K0LA"
@@ -96,27 +111,23 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi \U0001F64F"
-        Content: "
-        
-        My name is [Wei Lai](resume/). I am a [PhD at PolyU Design](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) 
-        for designing pedagogical agents with meaningful gestures in virtual learning environments.
-        The study used both qualitative and quantitative methods with eye tracking technique and statistical analysis tools.
-        My research interest lies in the intersection of applied social science, linguistics and human-computer interaction to investigate human psychological needs. 
+        Content: |
+            Design-led research on embodied AI tutors, instructional gestures, and multimodal learning technologies.
 
-        
-        I specialize in animation design, moving image making and illustration, and love to explore the beauty and unknown in arts world. Particularly, human figures and embodied movements are always attracted me to observe and reflect. I would love to express my thought through different materials like virtual avatars, interactive sensors, pastel, and ink.
+            I am [Wei Lai](/resume/), a Postdoctoral Fellow at PolyU Language Science and Technology. I completed my [PhD at PolyU Design](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) on pedagogical agents with meaningful gestures. Animation, moving image, and illustration remain part of how I work.
 
-
-        In this portfolio, you could find my latest research, design and arts work, as well as a short biography with my [CV](resume/doc/Resume_23.pdf)." 
+            Latest research, design, and arts work are here, with a short biography and [CV](/resume/).
 
     socialIcons:
         - name: email
-          url: "mailto:lai.weiarts@foxmail.com"
+          url: "mailto:cbs-lai.wei@polyu.edu.hk"
         - name: linkedin
-          url: "https://www.linkedin.com/in/lai-wei-076310ba/"
-        - name: rss
+          url: "https://www.linkedin.com/in/lai-wei-media/"
+        - name: googlescholar
+          url: "https://scholar.google.com/citations?user=-xeTHc8AAAAJ"
+        - name: orcid
           url: "https://orcid.org/0000-0002-5476-5450"
-        - name: youtube
+        - name: vimeo
           url: "https://vimeo.com/laiwei"
         - name: youtube
           url: "https://www.youtube.com/channel/UCmuyjkQKVcEEOxySic6K0LA"
@@ -126,7 +137,7 @@ params:
         responsiveImages: true # To reduce generation time and size of the site
         linkFullImages: true # To enable hyperlinks to the full image size on post pages
         hidden: false # hide everywhere but not in structured data
-        hiddenInList: true # hide on list pages and home
+        hiddenInList: false # show covers on list pages
         hiddenInSingle: true # hide on single page
 
     assets:
@@ -152,7 +163,7 @@ module:
     target: content
   - source: static
     target: static
-  - source: §
+  - source: layouts
     target: layouts
   - source: data
     target: data
@@ -169,22 +180,18 @@ menu:
           name: Home
           url: /
           weight: 10
-        # - identifier: Stories
-        #   name: stories
-        #   url: /stories/
-        #   weight: 20
-        - identifier: 
+        - identifier: research
+          name: Research
+          url: /research/
+          weight: 15
+        - identifier: projects
           name: Projects
           url: /projects
-          weight: 10       
+          weight: 20
         - identifier: Resume
           name: Resume
           url: /resume/
           weight: 30
-        # - identifier: Search
-        #   name: search
-        #   url: /search/
-        #   weight: 40
         - identifier: Tags
           name: Tags
           url: /tags/
@@ -200,3 +207,5 @@ markup:
   goldmark:
     extensions:
       footnote: true
+    renderer:
+      unsafe: false

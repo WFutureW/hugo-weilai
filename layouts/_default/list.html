@@ -10,10 +10,15 @@
     <h1>{{ .Title }}</h1>
     {{- if .Description }}
     <div class="post-description">
-        {{ .Description }}
+        {{ .Description | markdownify }}
     </div>
     {{- end }}
 </header>
+{{- end }}
+{{- if and (not .IsHome) .Content }}
+<div class="post-content">
+    {{ .Content }}
+</div>
 {{- end }}
 
 {{- $pages := union .RegularPages .Sections }}
@@ -42,7 +47,7 @@
 
 <article class="{{ $class }} big-container">
     <div class="image-content">
-        {{- $isHidden := (.Site.Params.cover.hidden | default .Site.Params.cover.hiddenInList) }}
+        {{- $isHidden := .Site.Params.cover.hiddenInList | default false }}
         {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
     </div>
 
@@ -53,18 +58,23 @@
                 {{- if .Draft }}<div class="entry-isdraft"><sup>&nbsp;&nbsp;[draft]</sup></div>{{ end -}}
             </h3>
         </header>
+        {{- with .Description }}
+        <section class="entry-content">
+            <p>{{ . | plainify | htmlUnescape }}</p>
+        </section>
+        {{- else }}
         {{- if (ne (.Param "hideSummary") true) }}
         <section class="entry-content">
             <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
         </section>
         {{- end }}
+        {{- end }}
         {{- if not (.Param "hideMeta") }}
         <footer class="entry-footer">
             {{- partial "post_meta.html" . -}}
         </footer>
+        {{- end }}
     </div>
-
-    {{- end }}
     <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
 {{- end }}
