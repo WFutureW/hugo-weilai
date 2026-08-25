@@ -16,17 +16,15 @@ draft: false
 ## Naming
 - **Wei Lai**, ‘ 魏莱 ’, has the same Chinese pronunciation as 'future(未来)'.
 
-## Research Profile
-- Design-led researcher on embodied AI tutors and multimodal instruction, linking language–gesture science to AI-enhanced teaching.
-- PhD frameworks for meaningful instructional gestures in embodied AI teachers (*IJHCI*, CSCW).
-- Two skeletal-rigged embodied AI-teacher lecture prototypes, designed with the instructional-gesture framework; student evaluation showed they support learning.
-- 6 years university lecturing; PolyU postdoc since 2024; supervised student prototypes of interactive platforms and virtual systems.
-- **Keywords:** AI in Education; Embodied AI Tutors; Co-speech Gesture; Pedagogical Agents; Language–Gesture Integration; Multimodal Interaction; ITS.
+## Profile
+- Postdoctoral Fellow, Department of Language Science and Technology, The Hong Kong Polytechnic University (2024 – present). PhD, School of Design, PolyU (2019 – 2024), on pedagogical agents and instructional gesture.
+- University teaching: Lecturer, Visual Communication Design (BA), Chongqing University of Education (2017 – 2024) and Chongqing Vocational College of Art and Engineering (2016); Teaching Assistant, Interaction Design (MDes) and Interactive Media (BA), PolyU School of Design (2019 – 2022).
+- Practice in animation, moving image, and illustration (MA, Central Saint Martins; BA, Communication University of China), with industry work in film, animation, and visual design.
+- **Keywords:** Multimodal Interaction; Gesture; Pedagogical Agents; Embodied AI Teachers; AI in Education; Multimedia Learning; Animation; Illustration.
 
 ## Current Research
-- **Corpus.** With PolyU LST and South China Normal University (Prof. Suiping Wang), collecting naturalistic dyadic dialogue in word-guessing tasks to build a multimodal corpus of coordinated speech, gesture, and gaze.
-- **Pipeline.** Integrating gesture, speech, gaze, and related cues with CS partners to investigate how humans coordinate multimodal information, informing more trustworthy agents.
-- **Platform.** Scalable tools for multimodal analytics and embodied AI tutor deployment (Education 4.0 / intelligent tutoring).
+- Multimodal corpus of dialogue, gesture, and gaze (in progress; PolyU × South China Normal University).
+- Ongoing research on instructional gesture and embodied pedagogical agents.
 
 ## Education :mortar_board:
 - **School of Design, The Hong Kong Polytechnic University（香港理工大学设计学院）**, *Hong Kong SAR, China*
@@ -43,13 +41,13 @@ draft: false
     - ['08 - '20 Arts Portfolio](doc/WeiLai-Portfolio.pdf)
 
 ## Experiences in Universities
-- 2026 – Present, Postdoctoral Fellow, [**Chen Si Lab**](https://sichen-lab.com/), Department of Language Science and Technology (LST), The Hong Kong Polytechnic University. Multimodal dialogue and gesture collection; language–gesture integration; grant proposal development; AI-enhanced instruction experiments.
-- 2024 – 2026, Postdoctoral Fellow, [**Brain, Language, and Computation Laboratory (BLC Lab)**](https://blclab.org/), Department of Language Science and Technology (formerly Chinese and Bilingual Studies), The Hong Kong Polytechnic University. Multimodal data analysis; dialogue gesture corpus development; grant proposal development; AI-enhanced instruction experiments.
+- 2026 – Present, Postdoctoral Fellow, [**Chen Si Lab**](https://sichen-lab.com/), Department of Language Science and Technology (LST), The Hong Kong Polytechnic University
+- 2024 – 2026, Postdoctoral Fellow, [**Brain, Language, and Computation Laboratory (BLC Lab)**](https://blclab.org/), Department of Language Science and Technology (formerly Chinese and Bilingual Studies), The Hong Kong Polytechnic University
 - 2023 – 2024, Research Associate, Consultancy Services for [**Well-Being Design Guide in Public Housing Development**](https://housingwellbeing.hk/en/design-guide/), The Hong Kong Polytechnic University and Architecture Commons
+- 2017 – 2024, Lecturer, **[Visual Communication Design (BA)](https://www.cque.edu.cn/msx/)**, Arts College, Chongqing University of Education
 - 06-12 2022, Research Assistant, The Challenges and Opportunities in AIoT UX Design: A Comparison Study of AIoT, IoT and Conventional Healthcare Appliances, The Hong Kong Polytechnic University
 - 2019 – 2022, Teaching Assistant, **[Interaction Design (MDes)](https://www.sd.polyu.edu.hk/en/study-detail/interaction-design)**, School of Design, The Hong Kong Polytechnic University
 - 2019 – 2022, Teaching Assistant, **[Interactive Media (BA)](https://www.sd.polyu.edu.hk/en/study-detail/ba-hons-in-interactive-media)**, School of Design, The Hong Kong Polytechnic University
-- 2017 – 2024, Lecturer, **[Visual Communication Design (BA)](https://www.cque.edu.cn/msx/)**, Arts College, Chongqing University of Education
 - 2016, Lecturer, **[Visual Communication Design (BA)](http://sjcm.cqysxy.com/)**, Chongqing Vocational College of Art and Engineering, Chongqing
 
 ## University Service
@@ -58,8 +56,8 @@ draft: false
 
 ## Experiences in Industry
 - 2023, Cameraman, Public Art Commission **[Treatment III](https://www.youtube.com/watch?v=Bug3CWS6PE4)**, Melbourne
-- 2017-2022, Visual Designer, Arts College, Chongqing University of Education, Chongqing
 - 2019, Animator, Minsheng Bank, Beijing
+- 2017-2022, Visual Designer, Arts College, Chongqing University of Education, Chongqing
 - 2017-2019, Instructor&Consultant, Art Creativity Global, Chongqing
 - 2017, Cameraman and filmmaker, Fwong Makeup &Styling Studio, Chongqing
 - 2017, Visual identity designer, Cube Art Centre, Chongqing
@@ -152,10 +150,10 @@ draft: false
 - **'CUT'in The Old Operating Theatre, Museum Herb Garret, London**, Group Exhibition, London, 2012
 
 ## Conferences
+- 2026 _Presenter_ ACM Creativity & Cognition (CC '26)
 - 2026 _Poster_ CogSci 2026
 - 2025 _Poster_ International Society for Gesture Studies (ISGS '25)
 - 2025 _Poster_ CogSci 2025
-- 2026 _Presenter_ ACM Creativity & Cognition (CC '26)
 - 2023.10 _Presenter_  The 2023 Conference on Computer Supported Cooperative Work and Social Computing, Minneapolis
 - 2023.10 _Presenter_ The 10th Congress of the International Association of Societies of Design Research, Milano
 - 2023.7 _Invited speaker_ The 10th China Visualization and Visual Analytics Conference, Chongqing
@@ -173,8 +171,7 @@ draft: false
 - **Research Methods**: Mixed methods, Lab experiment, Discourse analysis, Multimodal discourse analysis, Case study, Semi-structured interview, Survey, Thematic analysis, Speech analysis in phonetics, Corpus analysis.
 - **Design Methods**: User-center design, User Experience Design, User Test, Participatory Design, Laddering interview.
 - **Research Tools**: Eye tracking, EyeLink, ELAN, CLAN, SPSS, R, Praat, NVivo, Prism 9, VOSviewer, Microsoft suite.
-- **CAD / production**: Adobe suite, TVPaint, Final Cut Pro, Nomad, Reality Composer, Procreate, Cinema 4D, Figma; pedagogical agent prototyping (LLM-assisted, skeletal rigging, and other pipelines).
-- **Collaborators**: Ping Li (HKUST); Suiping Wang (SCNU); Kenny K. N. Chow (HKBU); Wang Minjuan (EdUHK); Stephen Jia Wang (PolyU Design).
+- **CAD Tool**: Adobe suite, TVPaint, Final Cut Pro, Nomad, Reality Composer, Procreate, Cinema 4D, Figma.
 
-{{<link-button "doc/Resume_23.pdf" "CV (PDF)">}}
+{{<link-button "doc/Resume.pdf" "CV (PDF)">}}
 {{<link-button "mailto:cbs-lai.wei@polyu.edu.hk" "Email">}}

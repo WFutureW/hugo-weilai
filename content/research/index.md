@@ -8,31 +8,21 @@ ShowBreadCrumbs: false
 draft: false
 ---
 
-I study instructional gesture, multimodal dialogue, and embodied AI tutors: how teachers coordinate speech, gesture, and gaze, and how those patterns can inform pedagogical agents that students can actually learn from.
+I work on pedagogical agents, instructional gesture, and multimodal interaction: how speech, gesture, and gaze are coordinated in teaching, and how that evidence can inform the design of embodied AI teachers.
 
-## Embodied AI Teachers (PhD → ongoing)
+## Embodied pedagogical agents
 
-My PhD at [PolyU School of Design](https://www.sd.polyu.edu.hk/en/) developed human-centered frameworks for designing and evaluating meaningful instructional gestures, with empirical work on word–gesture alignment, student perception, and multimodal interaction in instructional settings. Two skeletal-rigged lecture prototypes were built from that framework and evaluated with students.
+PhD research at [PolyU School of Design](https://www.sd.polyu.edu.hk/en/) (2019–2024) developed frameworks for designing and evaluating instructional gestures, with studies of word–gesture alignment, student perception, and multimodal interaction in instructional settings.
 
-**Key outputs:** [IJHCI 2026](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2664083); [CSCW 2023](/projects/2_CSCW2023/); [IASDR 2023](/projects/3_IASDR2023/); [IASDR 2021](/projects/5_eye-tracking/)
+**Selected outputs:** [IJHCI 2026](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2664083); [CSCW 2023](/projects/2_CSCW2023/); [IASDR 2023](/projects/3_IASDR2023/); [IASDR 2021](/projects/5_eye-tracking/)
 
-## Language–Gesture Integration (LST postdoc)
+## Language and gesture (postdoc)
 
-At PolyU Language Science and Technology I work on multimodal dialogue and co-speech gesture in instructional and dyadic settings, connecting language science with AI-enhanced instruction.
+Since 2024 I have been a postdoctoral fellow in Language Science and Technology at PolyU ([Chen Si Lab](https://sichen-lab.com/); previously [BLC Lab](https://blclab.org/)), working on multimodal dialogue and co-speech gesture.
 
-**Collaborators:** Ping Li (HKUST); PolyU LST ([Chen Si Lab](https://sichen-lab.com/), [BLC Lab](https://blclab.org/))
+## Current work
 
-## Multimodal Platform Direction (current)
-
-With collaborators at South China Normal University (Prof. Suiping Wang) and CS partners, I am building a multimodal instructional corpus from naturalistic dialogue gesture video. The longer aim is a pipeline from corpus and annotation to recognition and generative gesture production for AI tutors.
-
-**[Corpus project →](/projects/0_multimodal-corpus/)**
-
-Human instruction (video / audio)
-→ Multimodal corpus (annotation and curation)
-→ CS collaboration (recognition / alignment models)
-→ Design and animation (gesture production rules)
-→ Embodied AI tutor deployment (ITS / Education 4.0)
+A multimodal corpus of dialogue, gesture, and gaze is in progress with South China Normal University. Related project notes: [corpus](/projects/0_multimodal-corpus/).
 
 ## Selected papers
 
@@ -41,4 +31,4 @@ Human instruction (video / audio)
 - [When Gestures and Words Synchronize](https://dl.acm.org/doi/10.1145/3584931.3607010). CSCW 2023.
 - [Motion tracking of daily living and physical activities in healthcare](https://mhealth.jmir.org/2024/1/e46282). *JMIR mHealth and uHealth*, 2024.
 
-Full list on the [Resume](/resume/) page. Animation and movement design work lives under [Projects](/projects/)—that production background is how instructional gestures get built into agents, not a separate identity.
+The full list is on the [Resume](/resume/) page. Animation and movement design work is under [Projects](/projects/).
