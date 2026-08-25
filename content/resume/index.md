@@ -29,7 +29,7 @@ draft: false
 - **Platform.** Scalable tools for multimodal analytics and embodied AI tutor deployment (Education 4.0 / intelligent tutoring).
 
 ## Education :mortar_board:
-- **School of Design, The Hong Kong Polytechnic University**, *Hong Kong SAR, China*
+- **School of Design, The Hong Kong Polytechnic University（香港理工大学设计学院）**, *Hong Kong SAR, China*
     - **Ph.D.** 2019 - 2024, *Design*, specializing in AI instructor design, gesture design, virtual learning platform, multimodal interaction, research methods.
     - **Dissertation topic:** [Animated Gestures: Pedagogical Agents’ Meaningful Instructional Gesture Design for Effective Educational Information Presentation.](https://theses.lib.polyu.edu.hk/handle/200/12889)
     - **Supervisor:** Kenny K. N. Chow; **examiners:** Wang Minjuan, Dragan Gasevic.
@@ -38,7 +38,7 @@ draft: false
 - **Central Saint Martins, University of the Arts, London**, *London, UK*
     - MA. 2013 – 2015, *Character Animation*, specializing in 2D Animation, Computer Art, and Illustration.
 
-- **College of Animation and Digital Arts, Communication University of China**, *Beijing, China*
+- **College of Animation and Digital Arts, Communication University of China（中国传媒大学动画与数字艺术学院）**, *Beijing, China*
     - BA. 2008 – 2012, *Animation*, specializing in 2D Animation, Motion Images, Film Editing, Computer Art, Interaction Design, and Illustration.
     - ['08 - '20 Arts Portfolio](doc/WeiLai-Portfolio.pdf)
 
