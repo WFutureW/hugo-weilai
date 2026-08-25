@@ -17,10 +17,10 @@ draft: false
 - **Wei Lai**, ‘ 魏莱 ’, has the same Chinese pronunciation as 'future(未来)'.
 
 ## Profile
-- Postdoctoral Fellow, Department of Language Science and Technology, The Hong Kong Polytechnic University (2024 – present). PhD, School of Design, PolyU (2019 – 2024), on pedagogical agents and instructional gesture.
+- Postdoctoral Fellow, Department of Language Science and Technology, The Hong Kong Polytechnic University (2024 – present). PhD, School of Design, PolyU (2019 – 2024), on embodied AI teachers and instructional gesture: empirical studies plus working lecture prototypes evaluated with students.
 - University teaching: Lecturer, Visual Communication Design (BA), Chongqing University of Education (2017 – 2024) and Chongqing Vocational College of Art and Engineering (2016); Teaching Assistant, Interaction Design (MDes) and Interactive Media (BA), PolyU School of Design (2019 – 2022).
-- Practice in animation, moving image, and illustration (MA, Central Saint Martins; BA, Communication University of China), with industry work in film, animation, and visual design.
-- **Keywords:** Multimodal Interaction; Gesture; Pedagogical Agents; Embodied AI Teachers; AI in Education; Multimedia Learning; Animation; Illustration.
+- Animation and movement design used in pedagogical-agent prototyping (MA, Central Saint Martins; BA, Communication University of China).
+- **Keywords:** Embodied AI Teachers; Pedagogical Agents; Instructional Gesture; Multimodal Interaction; AI in Education; Multimedia Learning.
 
 ## Current Research
 - Multimodal corpus of dialogue, gesture, and gaze (in progress; PolyU × South China Normal University).
@@ -69,12 +69,12 @@ draft: false
 - 2009, Design Assistant, Zendai Art Centre, Shanghai
 
 ## Grants
-- 2025, Postdoctoral Matching Fund, PolyU, HK$794,000
-- 2025, Co-Principal Investigator, MOE Humanities and Social Sciences Project, RMB 100,000. From Myth to Gameplay: The transmediation of symbols and construction of identity in gamified worlds.
-- 2023, Additional Top Conference Grant, PolyU, HK$20,000
-- 2020, Co-Principal Investigator, Municipal Education Commission of Chongqing, RMB 50,000. Data visualization-based learning analytics system.
-- 2019, Teaching Postgraduate Studentship, PolyU, HK$593,000
-- 2019, PI, CQUE Teaching Research Grant, RMB 3,000. Five-dimensional assessment for illustration design.
+- 2025, Postdoctoral Matching Fund, PolyU
+- 2025, Co-Principal Investigator, MOE Humanities and Social Sciences Project. From Myth to Gameplay: The transmediation of symbols and construction of identity in gamified worlds.
+- 2023, Additional Top Conference Grant, PolyU
+- 2020, Co-Principal Investigator, Municipal Education Commission of Chongqing. Data visualization-based learning analytics system.
+- 2019, Teaching Postgraduate Studentship, PolyU
+- 2019, PI, CQUE Teaching Research Grant. Five-dimensional assessment for illustration design.
 
 ## Projects
 - 2020 Project Second Leader, Design and development of data visualization-based learning analysis system for the Science and Technology Research Project of the Municipal Education Commission
@@ -88,6 +88,7 @@ draft: false
 - **[Grounding Pedagogical Intents in Embodied AI Teachers: A Human-Centered Framework for Designing and Evaluating Instructional Gestures](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2664083)**. *Lai Wei, Pangrui Xing, Kenny K. N. Chow, Stephen Jia Wang*. *International Journal of Human–Computer Interaction*, 2026 (SSCI, Q1; IF 4.9).
 - **[CapSenseBand: Sustaining cross-disciplinary creativity when stitches must meet signals](https://dl.acm.org/doi/10.1145/3803784.3816847)**. *Pangrui Xing, Hongci Hu, Lai Wei, et al.* Proc. Creativity & Cognition (CC '26) (Rank A HCI).
 - **[Motion tracking of daily living and physical activities in healthcare: A systematic review from designers' perspective](https://mhealth.jmir.org/2024/1/e46282)**. *Lai Wei, Stephen Jia Wang*. *JMIR mHealth and uHealth*, 2024 (SCIE, Q1; IF 6.2).
+- **[Developing cue-behavior association for habit formation: A qualitative study to explore the role of avatar in hypertension](https://doi.org/10.1177/20552076241265217)**. *Yujie Zhu, Yonghao Long, Lai Wei, Yaqi Zhang, Zhengtao Ma, Kun-Pyo Lee, Lin Zhang, Stephen Jia Wang*. *Digital Health*, 2024.
 - **[When Gestures and Words Synchronize: Exploring A Human Lecturer’s Multimodal Interaction for the Design of Embodied Pedagogical Agents](https://dl.acm.org/doi/10.1145/3584931.3607010)**. *Lai Wei, Kenny K. N. Chow*. Companion Proc. CSCW '23 (Rank A HCI; CCF-A).
 - **[How Students Perceive Lecturers' Gestures? An Exploration In Gesture-meaning Matching Toward Embodied Pedagogical Agent Design](https://dl.designresearchsociety.org/iasdr/iasdr2023/fullpapers/5/)**. *Lai Wei, Kenny K. N. Chow*. IASDR '23 (Rank A Design).
 - **[Who Shapes the Network of a Pedagogical Space? Clues from the Movements in the Physical Places](https://link.springer.com/chapter/10.1007/978-3-031-20436-4_14)**. *Lai Wei, Kenny K. N. Chow*. International Conference on Advances in Mobile Computing and Multimedia Intelligence. MoMM 2022.

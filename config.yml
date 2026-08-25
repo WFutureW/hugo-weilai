@@ -60,9 +60,9 @@ params:
         enabled: true # needs to be explicitly set
         title: ""
         subtitle: |
-            I am [**Wei Lai**](/resume/), a Postdoctoral Fellow in Language Science and Technology at The Hong Kong Polytechnic University ([**Chen Si Lab**](https://sichen-lab.com/); previously [**BLC Lab**](https://blclab.org/)). I completed my [**PhD at PolyU Design**](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) on pedagogical agents and meaningful instructional gesture, using qualitative and quantitative methods including eye tracking.
+            I am [**Wei Lai**](/resume/), a Postdoctoral Fellow in Language Science and Technology at The Hong Kong Polytechnic University. I study **embodied AI teachers**, **instructional gesture**, and **multimodal interaction**: how speech, gesture, and gaze work together in teaching, and how that can be built into pedagogical agents.
 
-            My research concerns **multimodal interaction**, **gesture**, and **embodied pedagogical agents**. I also work in [**animation**](/projects/6_InBlack/), [**moving image**](/projects/4_publicity_film_design/) and [**illustration**](/projects/8_illustration/). Human figures and embodied movements are what I keep watching; I work with virtual avatars, interactive sensors, pastel, and ink.
+            My [**PhD at PolyU Design**](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) combined empirical work (including eye tracking) with lecture prototypes of embodied AI teachers that were evaluated with students. I both research these systems and implement them—from gesture analysis to agent design and animation.
 
             **Recent work**
 
@@ -70,7 +70,7 @@ params:
             - [Computers & Education (under review)](/projects/0_CompEd-humanness/): perceived humanness and feedback from embodied pedagogical agents
             - [Multimodal gesture corpus](/projects/0_multimodal-corpus/) (in progress)
 
-            Research, design, and arts work are collected here, with a [**CV**](/resume/).
+            [**Research**](/research/), [**projects**](/projects/), and [**CV**](/resume/).
         imageUrl: "projects/4_publicity_film_design/images/hands_cover_1.gif"
         imageWidth: 1000
         imageHeight: 550
@@ -102,9 +102,9 @@ params:
     homeInfoParams:
         Title: "Hi \U0001F64F"
         Content: |
-            I am [Wei Lai](/resume/), a Postdoctoral Fellow at PolyU Language Science and Technology. I completed my [PhD at PolyU Design](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) on pedagogical agents and instructional gesture. Animation, moving image, and illustration remain part of how I work.
+            I am [Wei Lai](/resume/), a Postdoctoral Fellow at PolyU Language Science and Technology. I work on embodied AI teachers, instructional gesture, and multimodal interaction—research and implementation.
 
-            Research, design, and arts work are here, with a [CV](/resume/).
+            [PhD, PolyU Design](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai). [CV](/resume/).
 
     socialIcons:
         - name: email
