@@ -1,5 +1,5 @@
 ---
-title: "[Research Project] Who Shapes the Network of a Pedagogical Space?"
+title: "[Research Project] Who Shapes the Network of a Pedagogical Space? Clues from the Movements in the Physical Places"
 date: "2022-12-01"
 description: ""
 tags: ["ResearchProject", "Pedagogical Network", "Lecturer", "Human Factor",  "Space"]
@@ -22,7 +22,7 @@ ShowBreadCrumbs: false
 draft: false
 hidden: false
 ---
-> **Authors:** Wei, Lai; Chow, Kenny K. N.
+> **Authors:** Lai Wei, Kenny K. N. Chow
 
 > ### Abstract
 

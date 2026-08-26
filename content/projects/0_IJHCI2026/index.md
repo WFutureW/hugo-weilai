@@ -1,5 +1,5 @@
 ---
-title: "[Research Project] Instructional Gesture Framework for Embodied AI Teachers"
+title: "[Research Project] Grounding Pedagogical Intents in Embodied AI Teachers: A Human-Centered Framework for Designing and Evaluating Instructional Gestures"
 date: "2026-03-01"
 description: "Human-centered framework for designing and evaluating instructional gestures in embodied AI teachers. Published in IJHCI 2026."
 tags: ["ResearchProject", "Embodied AI", "Gesture", "Pedagogical Agent", "Framework"]

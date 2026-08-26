@@ -1,5 +1,5 @@
 ---
-title: "[Research Project] How Students Perceive Lecturers’ Gestures?"
+title: "[Research Project] How Students Perceive Lecturers' Gestures? An Exploration In Gesture-meaning Matching Toward Embodied Pedagogical Agent Design"
 date: "2023-08-31"
 description: ""
 tags: ["ResearchProject", "Multimodal Interaction", "Human Factor", "Gesture", "Pedagogical Agent", "Learning"]
@@ -22,7 +22,7 @@ ShowBreadCrumbs: false
 draft: false
 hidden: false
 ---
-> **Authors:** Wei, Lai; Chow, Kenny K. N.
+> **Authors:** Lai Wei, Kenny K. N. Chow
 
 ---
 

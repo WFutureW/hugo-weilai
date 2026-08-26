@@ -60,7 +60,7 @@ params:
         enabled: true # needs to be explicitly set
         title: ""
         subtitle: |
-            I am [**Wei Lai**](/resume/), a Postdoctoral Fellow in Language Science and Technology at The Hong Kong Polytechnic University. I study **embodied AI teachers**, **instructional gesture**, and **multimodal interaction**: how speech, gesture, and gaze work together in teaching, and how that can be built into pedagogical agents.
+            I am [**Wei Lai**](/resume/), a Postdoctoral Fellow in Language Science and Technology at The Hong Kong Polytechnic University. I study **embodied AI teachers**, **instructional gesture**, and **multimodal interaction**: how speech, gesture, and gaze work together in teaching, and how that can be built into embodied pedagogical agents.
 
             My [**PhD at PolyU Design**](https://www.sd.polyu.edu.hk/en/meet-our-students/wei-lai) combined empirical work (including eye tracking) with lecture prototypes of embodied AI teachers that were evaluated with students. I both research these systems and implement them—from gesture analysis to agent design and animation.
 

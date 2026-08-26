@@ -22,7 +22,7 @@ ShowBreadCrumbs: false
 draft: false
 hidden: false
 ---
-> **Authors:** Wei, Lai; Chow, Kenny K. N.
+> **Authors:** Lai Wei, Kenny K. N. Chow
 
 ---
 This paper is included in The ninth Congress of the International Association of Societies of Design Research(IASDR), 2021.

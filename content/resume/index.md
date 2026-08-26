@@ -86,7 +86,7 @@ draft: false
 
 ### Journal and conference papers
 - **[Grounding Pedagogical Intents in Embodied AI Teachers: A Human-Centered Framework for Designing and Evaluating Instructional Gestures](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2664083)**. *Lai Wei, Pangrui Xing, Kenny K. N. Chow, Stephen Jia Wang*. *International Journal of Human–Computer Interaction*, 2026 (SSCI, Q1; IF 4.9).
-- **[CapSenseBand: Sustaining cross-disciplinary creativity when stitches must meet signals](https://dl.acm.org/doi/10.1145/3803784.3816847)**. *Pangrui Xing, Hongci Hu, Lai Wei, et al.* Proc. Creativity & Cognition (CC '26) (Rank A HCI).
+- **[CapSenseBand: Sustaining cross-disciplinary creativity when stitches must meet signals](https://dl.acm.org/doi/10.1145/3803784.3816847)**. *Sark Pangrui Xing, Hongci Hu, Lai Wei, Le Fang, Ziqian Bai, Kinor Shou-xiang Jiang, Stephen Jia Wang*. Proc. Creativity & Cognition (CC '26) (Rank A HCI).
 - **[Motion tracking of daily living and physical activities in healthcare: A systematic review from designers' perspective](https://mhealth.jmir.org/2024/1/e46282)**. *Lai Wei, Stephen Jia Wang*. *JMIR mHealth and uHealth*, 2024 (SCIE, Q1; IF 6.2).
 - **[Developing cue-behavior association for habit formation: A qualitative study to explore the role of avatar in hypertension](https://doi.org/10.1177/20552076241265217)**. *Yujie Zhu, Yonghao Long, Lai Wei, Yaqi Zhang, Zhengtao Ma, Kun-Pyo Lee, Lin Zhang, Stephen Jia Wang*. *Digital Health*, 2024.
 - **[When Gestures and Words Synchronize: Exploring A Human Lecturer’s Multimodal Interaction for the Design of Embodied Pedagogical Agents](https://dl.acm.org/doi/10.1145/3584931.3607010)**. *Lai Wei, Kenny K. N. Chow*. Companion Proc. CSCW '23 (Rank A HCI; CCF-A).
@@ -105,9 +105,9 @@ draft: false
 - **[How shared interactive experiences reshape the semantic representations of abstract concepts](https://escholarship.org/uc/item/6kh574kx)**. *Mingjun Zhai, Lai Wei, Ping Li*. CogSci 2025 (poster; Rank A Cognitive Science).
 
 ### Under review
-- Beyond Visual Realism: Perceived Humanness in Embodied Pedagogical Agents Predicts Feedback Uptake and Revision Performance. *Lai Wei, Kenny K. N. Chow*. *Computers & Education*.
-- Beats and pointing with English *not*, *n't* and *no* across grammatical class and medium. *Lai Wei, Ping Li*. *Gesture Studies*.
-- Culturally grounded but socially malleable: Cooperative dialogue recalibrates abstract concept representations. *Mingjun Zhai, Lai Wei, Ping Li*. *Communications Psychology* (Nature Portfolio).
+- Beyond Visual Realism: Perceived Humanness in Embodied Pedagogical Agents Predicts Feedback Uptake and Revision Performance. *Mingjun Zhai, Lai Wei, Zhe Gao, Ping Li*. *Computers & Education*.
+- Beats and pointing with English *not*, *n't* and *no* across grammatical class and medium. *Lai Wei, Pangrui Xing, Kenny K. N. Chow*. *Gesture Studies*.
+- Culturally grounded but socially malleable: Cooperative dialogue recalibrates abstract concept representations. *Mingjun Zhai, Lai Wei, Yingying Peng, Ping Li*. *Communications Psychology* (Nature Portfolio).
 
 ### In preparation
 - Word–Gesture Alignment for Generative Embodied AI Tutors: Evidence from Human Instruction. (target: CHI 2027)
@@ -173,6 +173,9 @@ draft: false
 - **Design Methods**: User-center design, User Experience Design, User Test, Participatory Design, Laddering interview.
 - **Research Tools**: Eye tracking, EyeLink, ELAN, CLAN, SPSS, R, Praat, NVivo, Prism 9, VOSviewer, Microsoft suite.
 - **CAD Tool**: Adobe suite, TVPaint, Final Cut Pro, Nomad, Reality Composer, Procreate, Cinema 4D, Figma.
+
+## Collaborators
+- Ping Li (HKUST); Suiping Wang (SCNU); Kenny K. N. Chow (HKBU); Wang Minjuan (EdUHK); Stephen Jia Wang (PolyU Design); Chen Si (PolyU LST).
 
 {{<link-button "doc/Resume.pdf" "CV (PDF)">}}
 {{<link-button "mailto:cbs-lai.wei@polyu.edu.hk" "Email">}}

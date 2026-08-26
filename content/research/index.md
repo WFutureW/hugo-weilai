@@ -27,7 +27,7 @@ A multimodal corpus of dialogue, gesture, and gaze is in progress with South Chi
 ## Selected papers
 
 - [Grounding Pedagogical Intents in Embodied AI Teachers](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2664083). *IJHCI*, 2026.
-- Beyond Visual Realism: Perceived Humanness in Embodied Pedagogical Agents Predicts Feedback Uptake and Revision Performance. Under review, *Computers & Education*.
+- Beyond Visual Realism: Perceived Humanness in Embodied Pedagogical Agents Predicts Feedback Uptake and Revision Performance. *Mingjun Zhai, Lai Wei, Zhe Gao, Ping Li*. Under review, *Computers & Education*.
 - [When Gestures and Words Synchronize](https://dl.acm.org/doi/10.1145/3584931.3607010). CSCW 2023.
 - [Motion tracking of daily living and physical activities in healthcare](https://mhealth.jmir.org/2024/1/e46282). *JMIR mHealth and uHealth*, 2024.
 

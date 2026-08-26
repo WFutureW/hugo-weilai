@@ -1,5 +1,5 @@
 ---
-title: "[Research Project] When Gestures and Words Synchronize"
+title: "[Research Project] When Gestures and Words Synchronize: Exploring A Human Lecturer’s Multimodal Interaction for the Design of Embodied Pedagogical Agents"
 date: "2023-09-01"
 description: ""
 tags: ["ResearchProject", "Multimodal Interaction", "Human Factor", "Gesture", "Pedagogical Agent", "Learning"]
@@ -22,7 +22,7 @@ ShowBreadCrumbs: false
 draft: false
 hidden: false
 ---
-> **Authors:** Wei, Lai; Chow, Kenny K. N.
+> **Authors:** Lai Wei, Kenny K. N. Chow
 
 ---
 

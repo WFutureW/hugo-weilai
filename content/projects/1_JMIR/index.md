@@ -1,5 +1,5 @@
 ---
-title: "[Research Project] Motion Tracking of Daily Living and Physical Activities in Health Care"
+title: "[Research Project] Motion tracking of daily living and physical activities in healthcare: A systematic review from designers' perspective"
 date: "2024-04-27"
 description: ""
 tags: ["ResearchProject", "Motion tracking", "Human Factor", "Designer", "Public Health", "Review"]
@@ -22,7 +22,7 @@ ShowBreadCrumbs: false
 draft: false
 hidden: false
 ---
-> **Authors:** Wei, Lai; Wang, Stephen Wang
+> **Authors:** Lai Wei, Stephen Jia Wang
 ---
 
 {{< figure width=100% align=center src="images/JMIR_202404.png" caption="" >}}
