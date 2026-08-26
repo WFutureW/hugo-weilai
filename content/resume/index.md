@@ -17,7 +17,7 @@ draft: false
 - **Wei Lai**, ‘ 魏莱 ’, has the same Chinese pronunciation as 'future(未来)'.
 
 ## Profile
-- Postdoctoral Fellow, Department of Language Science and Technology, The Hong Kong Polytechnic University (2024 – present). PhD, School of Design, PolyU (2019 – 2024), on embodied AI teachers and instructional gesture: empirical studies plus working lecture prototypes evaluated with students. Also prototype digital-twin avatar apps for rehab.
+- Postdoctoral Fellow, Department of Language Science and Technology, The Hong Kong Polytechnic University (2024 – present). PhD, School of Design, PolyU (2019 – 2024), on embodied AI teachers and instructional gesture: empirical studies plus working lecture prototypes evaluated with students. Also prototype health and social apps.
 - University teaching: Lecturer, Visual Communication Design (BA), Chongqing University of Education (2017 – 2024) and Chongqing Vocational College of Art and Engineering (2016); Teaching Assistant, Interaction Design (MDes) and Interactive Media (BA), PolyU School of Design (2019 – 2022).
 - **Keywords:** Embodied AI Teachers; Embodied Pedagogical Agents; Instructional Gesture; Multimodal Interaction; AI in Education; Multimedia Learning.
 
