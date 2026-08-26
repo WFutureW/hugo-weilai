@@ -19,14 +19,13 @@ draft: false
 ## Profile
 - Postdoctoral Fellow, Department of Language Science and Technology, The Hong Kong Polytechnic University (2024 – present). PhD, School of Design, PolyU (2019 – 2024), on embodied AI teachers and instructional gesture: empirical studies plus working lecture prototypes evaluated with students.
 - University teaching: Lecturer, Visual Communication Design (BA), Chongqing University of Education (2017 – 2024) and Chongqing Vocational College of Art and Engineering (2016); Teaching Assistant, Interaction Design (MDes) and Interactive Media (BA), PolyU School of Design (2019 – 2022).
-- Animation and movement design used in pedagogical-agent prototyping (MA, Central Saint Martins; BA, Communication University of China).
 - **Keywords:** Embodied AI Teachers; Embodied Pedagogical Agents; Instructional Gesture; Multimodal Interaction; AI in Education; Multimedia Learning.
 
 ## Current Research
 - Multimodal corpus of dialogue, gesture, and gaze (in progress; PolyU × South China Normal University).
 - Ongoing research on instructional gesture and embodied pedagogical agents.
 
-## Education :mortar_board:
+## Education
 - **School of Design, The Hong Kong Polytechnic University（香港理工大学设计学院）**, *Hong Kong SAR, China*
     - **Ph.D.** 2019 - 2024, *Design*, specializing in AI instructor design, gesture design, virtual learning platform, multimodal interaction, research methods.
     - **Dissertation topic:** [Animated Gestures: Pedagogical Agents’ Meaningful Instructional Gesture Design for Effective Educational Information Presentation.](https://theses.lib.polyu.edu.hk/handle/200/12889)
