@@ -34,8 +34,8 @@ params:
     - news
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Wei Lai
-    description: "Research, design, animation, and illustration by Wei Lai."
-    keywords: [Wei Lai, pedagogical agents, gesture, multimodal interaction, animation, illustration, PolyU]
+    description: "Research on embodied pedagogical agents, instructional gesture, and multimodal interaction by Wei Lai."
+    keywords: [Wei Lai, embodied pedagogical agents, instructional gesture, multimodal interaction, animation, illustration, PolyU]
     author: Wei Lai
     images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
