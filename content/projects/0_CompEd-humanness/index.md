@@ -4,7 +4,7 @@ date: "2026-02-15"
 description: "Under review at Computers & Education."
 tags: ["ResearchProject", "Pedagogical Agent", "AI Feedback", "Humanness", "Learning"]
 cover:
-    image: "images/cover.svg"
+    image: "images/cover.png"
     alt: "Perceived humanness and AI feedback"
     caption: ""
 

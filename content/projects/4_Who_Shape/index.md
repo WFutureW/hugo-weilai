@@ -4,7 +4,7 @@ date: "2022-12-01"
 description: ""
 tags: ["ResearchProject", "Pedagogical Network", "Lecturer", "Human Factor",  "Space"]
 cover:
-    image: "images/cover.svg"
+    image: "images/cover.png"
     alt: ""
     caption: ""
 

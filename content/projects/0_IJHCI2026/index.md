@@ -4,7 +4,7 @@ date: "2026-03-01"
 description: "Human-centered framework for designing and evaluating instructional gestures in embodied AI teachers. Published in IJHCI 2026."
 tags: ["ResearchProject", "Embodied AI", "Gesture", "Pedagogical Agent", "Framework"]
 cover:
-    image: "images/cover.svg"
+    image: "images/cover.png"
     alt: "Instructional gesture framework"
     caption: ""
 

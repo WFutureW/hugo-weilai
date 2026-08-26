@@ -4,7 +4,7 @@ date: "2025-12-01"
 description: "Alignment between teachers' gestures and spoken words, toward generative embodied AI tutor design."
 tags: ["ResearchProject", "Gesture", "Alignment", "Pedagogical Agent", "Generative"]
 cover:
-    image: "images/cover.svg"
+    image: "images/cover.png"
     alt: "Word-gesture alignment"
     caption: ""
 

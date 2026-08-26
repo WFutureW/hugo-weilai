@@ -4,7 +4,7 @@ date: "2026-08-01"
 description: "A multimodal corpus of dialogue, gesture, and gaze, in progress with South China Normal University."
 tags: ["ResearchProject", "Multimodal Corpus", "Gesture", "Dialogue"]
 cover:
-    image: "images/cover.svg"
+    image: "images/cover.png"
     alt: "Multimodal instructional gesture corpus"
     caption: ""
 
