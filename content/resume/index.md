@@ -22,7 +22,7 @@ draft: false
 - **Keywords:** Embodied AI Teachers; Embodied Pedagogical Agents; Instructional Gesture; Multimodal Interaction; AI in Education; Multimedia Learning.
 
 ## Current Research
-- Multimodal corpus of dialogue, gesture, gaze, and fNIRS (in progress; PolyU × South China Normal University).
+- Multimodal corpus of **dialogue**, **gesture**, **gaze**, **social interaction**, and **fNIRS** (in progress; PolyU × South China Normal University).
 - Ongoing research on instructional gesture and embodied pedagogical agents.
 
 ## Education
