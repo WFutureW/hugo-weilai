@@ -30,8 +30,6 @@ imaging:
 params:
     mainSections: 
     - Projects
-    newsSections:
-    - news
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Wei Lai
     description: "Research on embodied pedagogical agents, instructional gesture, and multimodal interaction by Wei Lai."
