@@ -22,7 +22,7 @@ Since 2024 I have been a postdoctoral fellow in Language Science and Technology 
 
 ## Current work
 
-A multimodal corpus of dialogue, gesture, and gaze is in progress with South China Normal University. Related project notes: [corpus](/projects/0_multimodal-corpus/).
+A multimodal corpus of dialogue, gesture, gaze, and fNIRS is in progress with South China Normal University. Related project notes: [corpus](/projects/0_multimodal-corpus/).
 
 ## Selected papers
 
