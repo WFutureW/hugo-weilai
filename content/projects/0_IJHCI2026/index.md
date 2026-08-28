@@ -1,6 +1,7 @@
 ---
 title: "[Research Project] Grounding Pedagogical Intents in Embodied AI Teachers: A Human-Centered Framework for Designing and Evaluating Instructional Gestures"
 date: "2026-03-01"
+weight: -2
 description: "Human-centered framework for designing and evaluating instructional gestures in embodied AI teachers. Published in IJHCI 2026."
 tags: ["ResearchProject", "Embodied AI", "Gesture", "Pedagogical Agent", "Framework"]
 cover:
@@ -17,6 +18,8 @@ hidden: false
 
 > **Authors:** Lai Wei, Pangrui Xing, Kenny K. N. Chow, Stephen Jia Wang
 > **Status:** Published, *International Journal of Human–Computer Interaction* (SSCI, Q1; IF 4.9)
+
+{{< figure width=100% align=center src="images/cover.png" caption="Figure 3. Visual overview of the entire pedagogical agent (PA) gestures design procedures." >}}
 
 > ### Abstract
 
