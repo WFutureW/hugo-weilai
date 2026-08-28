@@ -173,8 +173,5 @@ draft: false
 - **Research Tools**: Eye tracking, EyeLink, ELAN, CLAN, SPSS, R, Praat, NVivo, Prism 9, VOSviewer, Microsoft suite.
 - **CAD Tool**: Adobe suite, TVPaint, Final Cut Pro, Nomad, Reality Composer, Procreate, Cinema 4D, Figma.
 
-## Collaborators
-- Ping Li (HKUST); Suiping Wang (SCNU); Kenny K. N. Chow (HKBU); Wang Minjuan (EdUHK); Stephen Jia Wang (PolyU Design); Chen Si (PolyU LST).
-
 {{<link-button "doc/Resume.pdf" "CV (PDF)">}}
 {{<link-button "mailto:cbs-lai.wei@polyu.edu.hk" "Email">}}
