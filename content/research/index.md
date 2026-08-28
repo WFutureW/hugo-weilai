@@ -12,6 +12,8 @@ I work on **embodied pedagogical agents**, instructional gesture, and multimodal
 
 ## Embodied pedagogical agents
 
+{{< youtube PW14xgdm7z4 >}}
+
 PhD research at [PolyU School of Design](https://www.sd.polyu.edu.hk/en/) (2019–2024) developed frameworks for designing and evaluating instructional gestures, with studies of word–gesture alignment, student perception, and multimodal interaction in instructional settings.
 
 **Selected outputs:** [IJHCI 2026](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2664083); [CSCW 2023](/projects/2_CSCW2023/); [IASDR 2023](/projects/3_IASDR2023/); [IASDR 2021](/projects/5_eye-tracking/)

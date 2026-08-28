@@ -18,6 +18,8 @@ hidden: false
 > **Status:** In preparation (target: CHI 2027)
 > **Related poster:** Pangrui Xing, Lai Wei, Kenny K. N. Chow. ISGS '25
 
+{{< youtube PW14xgdm7z4 >}}
+
 This line continues the CSCW and IASDR work on how lecturers' gestures line up with spoken words. The present question is how that alignment can inform generative embodied AI tutors—when a beat, a point, or an iconic gesture should land relative to speech, rather than treating gesture as decoration on a talking head.
 
 **Working title:** Word–Gesture Alignment for Generative Embodied AI Tutors: Evidence from Human Instruction.
