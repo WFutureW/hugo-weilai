@@ -42,3 +42,51 @@ jobs:
           local_path: public/
           remote_path: /
           clean: true
+
+      # cos-action clean does not remove leftover objects; delete known junk prefixes.
+      - name: Delete leftover pages
+        env:
+          TENCENT_CLOUD_SECRET_ID: ${{ secrets.TENCENT_CLOUD_SECRET_ID }}
+          TENCENT_CLOUD_SECRET_KEY: ${{ secrets.TENCENT_CLOUD_SECRET_KEY }}
+          COS_BUCKET: ${{ secrets.COS_BUCKET }}
+          COS_REGION: ${{ secrets.COS_REGION }}
+        run: |
+          pip install -q cos-python-sdk-v5
+          python3 << 'PY'
+          import os
+          from qcloud_cos import CosConfig, CosS3Client
+
+          bucket = os.environ["COS_BUCKET"]
+          client = CosS3Client(CosConfig(
+              Region=os.environ["COS_REGION"],
+              SecretId=os.environ["TENCENT_CLOUD_SECRET_ID"],
+              SecretKey=os.environ["TENCENT_CLOUD_SECRET_KEY"],
+          ))
+          prefixes = [
+              "news/",
+              "conference/",
+              "goals/",
+              "CHIIoT21-Proceedings/",
+          ]
+          deleted = []
+          for prefix in prefixes:
+              marker = ""
+              while True:
+                  kwargs = {"Bucket": bucket, "Prefix": prefix, "MaxKeys": 1000}
+                  if marker:
+                      kwargs["Marker"] = marker
+                  resp = client.list_objects(**kwargs)
+                  contents = resp.get("Contents") or []
+                  for obj in contents:
+                      key = obj["Key"]
+                      client.delete_object(Bucket=bucket, Key=key)
+                      deleted.append(key)
+                      print("deleted", key)
+                  if str(resp.get("IsTruncated")).lower() == "true":
+                      marker = resp.get("NextMarker") or (contents[-1]["Key"] if contents else "")
+                      if not marker:
+                          break
+                  else:
+                      break
+          print("deleted_count", len(deleted))
+          PY
