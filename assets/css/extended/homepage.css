@@ -47,11 +47,16 @@
     width: 100%;
 }
 
+.profile_hero {
+    margin: 0 0 1.25rem;
+}
+
 .profile_footer_image {
     margin-top: 1.5rem;
 }
 
-.profile img.profile_photo {
+.profile img.profile_photo,
+.profile video.profile_photo {
     display: block;
     width: 100%;
     height: auto;

@@ -73,7 +73,8 @@ params:
         imageUrl: "projects/4_publicity_film_design/images/hands_cover_1.gif"
         imageTitle: my image
         # add a new top image here later (same display width as the site: 780px)
-        heroImageUrl: ""
+        heroImageUrl: "images/judy.mp4"
+        heroImageTitle: "Wei Lai"
         buttons:
             - name: research
               url: research

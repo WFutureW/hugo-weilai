@@ -4,8 +4,14 @@
         {{- /* top slot for a new hero; nothing renders until heroImageUrl is set */}}
         {{- if .heroImageUrl }}
         <div class="profile_hero">
+            {{- if strings.HasSuffix .heroImageUrl ".mp4" }}
+            <video class="profile_photo" autoplay muted loop playsinline disablepictureinpicture>
+                <source src="{{ .heroImageUrl | absURL }}" type="video/mp4">
+            </video>
+            {{- else }}
             {{- $hero := dict "imageUrl" .heroImageUrl "imageTitle" (.heroImageTitle | default "hero image") }}
             {{- partial "profile_img.html" $hero }}
+            {{- end }}
         </div>
         {{- end }}
 
