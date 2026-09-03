@@ -51,7 +51,7 @@ draft: false
 
 ## University Service
 - 2021 – Present, Senior Hall Tutor, [**Hung Hom Halls (LS Hall), PolyU**](https://www.polyu.edu.hk/sao/student-resources-and-support-section/residential-life/university-managed-accommodations/hung-hom-halls/individual-hall/ls-hall/). Coordinating hall tutors, student mentoring, and hall educational activities.
-- 2023 – 2025, Peer review for *Brain and Language*, *Education and Information Technologies*, *IEEE Transactions on Learning Technologies*, *JMIR mHealth and uHealth*, *European Journal of Education*, ACM CSCW, and IASDR.
+- 2023 – 2026, Peer review for *Brain and Language*, *IEEE Transactions on Learning Technologies*, *Education and Information Technologies*, *JMIR mHealth and uHealth*, *European Journal of Education*, ACM CSCW, and IASDR.
 
 ## Experiences in Industry
 - 2023, Cameraman, Public Art Commission **[Treatment III](https://www.youtube.com/watch?v=Bug3CWS6PE4)**, Melbourne
