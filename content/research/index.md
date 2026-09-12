@@ -49,4 +49,4 @@ Under review:
 - Beats and pointing with English *not*, *n't* and *no* across grammatical class and medium. *Lai Wei, Pangrui Xing, Kenny K. N. Chow*. *Gesture Studies*.
 - Culturally grounded but socially malleable: Cooperative dialogue recalibrates abstract concept representations. *Mingjun Zhai, Lai Wei, Yingying Peng, Ping Li*. *Communications Psychology* (Nature Portfolio).
 
-Posters and work in preparation are on the [Resume](/resume/) page. Animation and movement design work is under [Projects](/projects/).
+Posters are on the [Resume](/resume/) page. Animation and movement design work is under [Projects](/projects/).

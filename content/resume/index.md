@@ -108,10 +108,6 @@ draft: false
 - Beats and pointing with English *not*, *n't* and *no* across grammatical class and medium. *Lai Wei, Pangrui Xing, Kenny K. N. Chow*. *Gesture Studies*.
 - Culturally grounded but socially malleable: Cooperative dialogue recalibrates abstract concept representations. *Mingjun Zhai, Lai Wei, Yingying Peng, Ping Li*. *Communications Psychology* (Nature Portfolio).
 
-### In preparation
-- Word–Gesture Alignment for Generative Embodied AI Tutors: Evidence from Human Instruction. (target: CHI 2027)
-- When First Impressions Meet Feedback: Appearance, Valence, and Evaluations of AI Teachers in AI-Enhanced Writing Instruction. (target: *Computers & Education*)
-
 ## Recognition
 - 2023 Invited presentation, ChinaVis 2023 (Visualization and Visual Analytics)
 - 2021 Best Presenter Award in the 12th PhD Colloquium on Design Research, hosted by Tsinghua University’s Academy of Arts & Design

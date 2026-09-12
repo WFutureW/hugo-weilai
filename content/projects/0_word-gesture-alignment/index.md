@@ -11,8 +11,8 @@ cover:
 author: "Wei Lai \U0001F4DA"
 ShowToc: false
 ShowBreadCrumbs: false
-draft: false
-hidden: false
+draft: true
+hidden: true
 ---
 
 > **Status:** In preparation (target: CHI 2027)
