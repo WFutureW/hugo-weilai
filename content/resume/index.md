@@ -104,7 +104,7 @@ draft: false
 - **[How shared interactive experiences reshape the semantic representations of abstract concepts](https://escholarship.org/uc/item/6kh574kx)**. *Mingjun Zhai, Lai Wei, Ping Li*. CogSci 2025 (poster; Rank A Cognitive Science).
 
 ### Under review
-- Beyond Visual Realism: Perceived Humanness in Embodied Pedagogical Agents Predicts Feedback Uptake and Revision Performance. *Mingjun Zhai, Lai Wei, Zhe Gao, Ping Li*. *Computers & Education*.
+- Delivering Personalized LLM-Generated Feedback Through Embodied Pedagogical Agents: The Roles of Visual Realism and Perceived Humanness. *Mingjun Zhai, Lai Wei, Zhe Gao, Jiaxin Chen, Yongqing Li, Ping Li*. *Computers & Education*.
 - Beats and pointing with English *not*, *n't* and *no* across grammatical class and medium. *Lai Wei, Pangrui Xing, Kenny K. N. Chow*. *Gesture Studies*.
 - Culturally grounded but socially malleable: Cooperative dialogue recalibrates abstract concept representations. *Mingjun Zhai, Lai Wei, Yingying Peng, Ping Li*. *Communications Psychology* (Nature Portfolio).
 
