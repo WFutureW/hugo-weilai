@@ -109,7 +109,7 @@ draft: false
 - Culturally grounded but socially malleable: Cooperative dialogue recalibrates abstract concept representations. *Mingjun Zhai, Lai Wei, Yingying Peng, Ping Li*. *Communications Psychology* (Nature Portfolio).
 
 ### In preparation
-- How First Impressions of Human and AI-Generated Teachers Change across a Sequence of Feedback Videos. (target: *Computers & Education*)
+- How First Impressions of Human and AI-Generated Teachers Change across a Sequence of Feedback Videos. (target: *Computers in Human Behavior*)
 
 ## Recognition
 - 2023 Invited presentation, ChinaVis 2023 (Visualization and Visual Analytics)
