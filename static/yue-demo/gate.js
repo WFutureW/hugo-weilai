@@ -45,11 +45,28 @@
     document.body.appendChild(script);
   }
 
+  function primeSpeech() {
+    var synth = window.speechSynthesis;
+    if (!synth) return;
+    try { synth.resume(); } catch (e) {}
+    var voices = synth.getVoices();
+    var sinji = null;
+    for (var i = 0; i < voices.length; i++) {
+      if (voices[i].name === "Sinji" && voices[i].lang === "zh-HK") sinji = voices[i];
+    }
+    var utterance = new SpeechSynthesisUtterance(" ");
+    utterance.volume = 0;
+    utterance.lang = "zh-HK";
+    if (sinji) utterance.voice = sinji;
+    synth.speak(utterance);
+  }
+
   form.addEventListener("submit", function (event) {
     event.preventDefault();
     if (busy) return;
     busy = true;
     bad.textContent = "";
+    primeSpeech();
     unlock(input.value).catch(function () {
       busy = false;
       bad.textContent = "密碼不對。";
