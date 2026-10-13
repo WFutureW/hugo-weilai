@@ -85,6 +85,7 @@ draft: false
 
 ### Journal and conference papers
 - **[Grounding Pedagogical Intents in Embodied AI Teachers: A Human-Centered Framework for Designing and Evaluating Instructional Gestures](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2664083)**. *Lai Wei, Pangrui Xing, Kenny K. N. Chow, Stephen Jia Wang*. *International Journal of Human–Computer Interaction*, 2026 (SSCI, Q1; IF 4.9).
+- Invisible Repair Work in Live Lectures: Where AI Can Augment the Lecturer–Student Loop. *Lai Wei*. International Conference on Human-Engaged Computing (ICHEC 2026), accepted.
 - **[CapSenseBand: Sustaining cross-disciplinary creativity when stitches must meet signals](https://dl.acm.org/doi/10.1145/3803784.3816847)**. *Sark Pangrui Xing, Hongci Hu, Lai Wei, Le Fang, Ziqian Bai, Kinor Shou-xiang Jiang, Stephen Jia Wang*. Proc. Creativity & Cognition (CC '26) (Rank A HCI).
 - **[Motion tracking of daily living and physical activities in healthcare: A systematic review from designers' perspective](https://mhealth.jmir.org/2024/1/e46282)**. *Lai Wei, Stephen Jia Wang*. *JMIR mHealth and uHealth*, 2024 (SCIE, Q1; IF 6.2).
 - **[Developing cue-behavior association for habit formation: A qualitative study to explore the role of avatar in hypertension](https://doi.org/10.1177/20552076241265217)**. *Yujie Zhu, Yonghao Long, Lai Wei, Yaqi Zhang, Zhengtao Ma, Kun-Pyo Lee, Lin Zhang, Stephen Jia Wang*. *Digital Health*, 2024 (SCIE, SSCI, Q1; IF 3.9).
